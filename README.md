@@ -7,7 +7,7 @@
 - For more information about me, you can check out my Linkedin profile. If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
 - My projects(Completed ones)(Projects that I developed by my own or with a team):
     - Human Resource Management System
-        - git hub page of the project: https://github.com/ZeroToHero2/Human-Resource-Management-System-with-JFoenix)
+        - git hub page of the project: https://github.com/ZeroToHero2/Human-Resource-Management-System-with-JFoenix
         - done with a team. Other team member's github page is : https://github.com/ZeroToHero2
 - My projects(In progress)
     - Chess game with a basic AI. (With a collabrator, at the end of the project I will gave his github page.)
