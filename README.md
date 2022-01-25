@@ -12,5 +12,5 @@
     - Chess game with a basic AI. (With a collabrator, at the end of the project I will gave his github page.)
     - Human Resources Managment System (Alone)
     - Snake game (Alone)
-- For more information about me, you can check out my Linkedin profile. If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
+- For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
     
