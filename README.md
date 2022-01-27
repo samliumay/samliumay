@@ -10,7 +10,7 @@
         - Done with a team. Other team member's github page is : https://github.com/ZeroToHero2
 - My projects (In progress) :
     - Chess game with a basic AI. (With a collabrator, at the end of the project I will gave his github page.)
-    - Human Resources Managment System version 2.0 (Alone)
+    - Human Resources Managment System version 2.0/3.0/4.0 (Alone)
     - Snake game and a machine learning algorithm that can play the game by it's self. (Alone)
     - My own personal webside (Alone)
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
