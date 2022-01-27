@@ -11,7 +11,7 @@
 - My projects (In progress) :
     - Chess game with a basic AI. (With a collabrator, at the end of the project I will gave his github page.)
     - Human Resources Managment System (Alone)
-    - Snake game (Alone)
+    - Snake game and a machine learning algorithm that can play the game by it's self. (Alone)
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
     
