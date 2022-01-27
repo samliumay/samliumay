@@ -14,4 +14,5 @@
     - Snake game and a machine learning algorithm that can play the game by it's self. (Alone)
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
-    
+- Also if you are interested with games or want to learn some basic concepts about computer science, you can check my youtube chanel. I openned it just for fun.
+    - https://www.youtube.com/channel/UCUPPAI3rVyJMyeETpbQ6TkQ
