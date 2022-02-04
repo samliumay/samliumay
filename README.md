@@ -18,3 +18,6 @@
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
 - Also if you are interested with games or want to learn some basic concepts about computer science, you can check my youtube chanel. I openned it just for fun.
     - https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w
+- For more information about me check out my CV.
+    - My Turkish CV:
+    - [Türkçe CV - Umay ŞAMLI.pdf](https://github.com/samliumay/samliumay/files/8005919/Turkce.CV.-.Umay.SAMLI.pdf)
