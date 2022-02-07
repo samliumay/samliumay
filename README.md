@@ -20,3 +20,4 @@
     - https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w
 - For more information about me check out my CV.
     - My Turkish CV: [Türkçe CV - Umay ŞAMLI.pdf](https://github.com/samliumay/samliumay/files/8005919/Turkce.CV.-.Umay.SAMLI.pdf)
+    - My English CV: [English CV - Umay ŞAMLI .pdf](https://github.com/samliumay/samliumay/files/8018643/English.CV.-.Umay.SAMLI.pdf)
