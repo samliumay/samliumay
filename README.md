@@ -18,10 +18,10 @@
         - An ML algirthm that we ( I did it with a team ) predicted Airline Passenger Satisfaction acording to the data. for modre detail look to: 
             - https://github.com/samliumay/Algorithm-to-determine-Airline-Passenger-Satisfaction
 - My projects (In progress) :
-    - Chess game with a basic AI.
+    - Chess game with a basic AI. Will able to calculate the possible mistakes acording to ELO rating (Means will able to predict the possible human moves acording to their ELO rating.)
     - Snake game and a machine learning algorithm that can play the game by it's self. 
     - My own personal webside
-    - A comprehensive planing program
+    - A comprehensive planing program. (Weekly, monthly, daily, special having note functions exc.)
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
 - Also if you are interested with games or want to learn some basic concepts about computer science, you can check my youtube chanel. I openned it just for fun.
