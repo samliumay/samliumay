@@ -14,15 +14,11 @@
         - An ML algirthm that we ( I did it with a team ) predicted Airline Passenger Satisfaction acording to the data. for modre detail look to: 
             - https://github.com/samliumay/Algorithm-to-determine-Airline-Passenger-Satisfaction
 - My projects (In progress) :
-    - Chess game with a basic AI. (With a collabrator, at the end of the project I will gave his github page.)
-    - Human Resources Managment System version 2.0/3.0/4.0 (Alone)
-    - Snake game and a machine learning algorithm that can play the game by it's self. (Alone)
-    - My own personal webside (Alone)
-    - A planing program (Alone)
+    - Chess game with a basic AI.
+    - Snake game and a machine learning algorithm that can play the game by it's self. 
+    - My own personal webside
+    - A comprehensive planing program
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
 - Also if you are interested with games or want to learn some basic concepts about computer science, you can check my youtube chanel. I openned it just for fun.
     - https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w
-- For more information about me check out my CV.
-    - My Turkish CV: [Türkçe CV - Umay ŞAMLI.pdf][Türkçe CV - Umay ŞAMLI.pdf](https://github.com/samliumay/samliumay/files/9389425/Turkce.CV.-.Umay.SAMLI.pdf)
-    - My English CV: [English CV - Umay ŞAMLI .pdf][English CV - Umay ŞAMLI .pdf](https://github.com/samliumay/samliumay/files/9389426/English.CV.-.Umay.SAMLI.pdf)
