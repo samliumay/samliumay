@@ -6,7 +6,11 @@
     - Tried to develop the program that javaFX and postgreSQL actively used to the docker container.(In complete)
 - Worked at ASELSAN for my second summer internship. (For more information about company: https://www.aselsan.com.tr/)
     - Developed a tool to create weekly work plan.
-        - C#, .NET and MongoDB were used in the project.    
+        - C#, .NET and MongoDB were used in the project.  
+- I am currenlty working at TUSAŞ as Candicate Engineer. 
+    - I am working about optimization of item detection method.
+    - I am working on planing and integration of intelegent production tables. 
+    - I worked on datas about recognision systems. I processed the datas and planed new algorithms acording to calculations.   
 - My projects (Completed ones) (Both projects that I developed by my own or with a team) :
     - Human Resource Management System
         - Github page of the project: https://github.com/ZeroToHero2/Human-Resource-Management-System-with-JFoenix
