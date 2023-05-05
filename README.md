@@ -1,4 +1,6 @@
-- A highly motivated computer science student at TEDU. 
+- A extremly highly motivated computer science student.
+- I will focus on cyber security domain. I am not sure which part of the cyber security will I focus on.
+- My previous internships are mostly full-stack developing. 
 - Worked at SAVRONIK for my first summer internship. (For more information about company: http://www.savronik.com.tr/en/home/)
     - I developed tester program for easy testing of main project.(JavaFX used for UI. TCP/IP protocols used for connection between main program and tester program.)
     - Assisted software engineers by fixing some of the minor bugs at the main program.
@@ -18,11 +20,15 @@
         - An ML algirthm that we ( I did it with a team ) predicted Airline Passenger Satisfaction acording to the data. for modre detail look to: 
             - https://github.com/samliumay/Algorithm-to-determine-Airline-Passenger-Satisfaction
 - My projects (In progress) :
-    - Chess game with a basic AI. Will able to calculate the possible mistakes acording to ELO rating (Means will able to predict the possible human moves acording to their ELO rating.)
-    - Snake game and a machine learning algorithm that can play the game by it's self. 
     - My own personal webside
     - A comprehensive planing program. (Weekly, monthly, daily, special having note functions exc.)
+    - My own portScanner 
+    - My own cyber Security Training program - youtube/Beginers level
+    - My own Cyber Security Training Program - youtube/Medium level
+    - My own cyber Security Training Program - youtube/Advanced level
+    - Introduction to Network course - youtube
+    - Introduction to Cyrptography course- youtube
+    - Introdcution to Algorithms Part 1 course - youtube
+    - Introduction to Algorithms Part 2 course - youtube
 - For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
 - If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
-- Also if you are interested with games or want to learn some basic concepts about computer science, you can check my youtube chanel. I openned it just for fun.
-    - https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w
