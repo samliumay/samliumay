@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samliumay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<hr>
+
 <div align="center">
   <h3>You can Check <a href="https://samliumay.github.io/myPersonalWebPage/"> my personal web site </a>  for more information.  </h3>
 </div>
