@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1>You can Check my personal Web site: <a href="https://samliumay.github.io/myPersonalWebPage/">Umay ŞAMLI</a> </h1>
+  <h3>You can Check my personal web site for more information: for mor <a href="https://samliumay.github.io/myPersonalWebPage/">Umay ŞAMLI</a> </h3>
 </div>
 
 
