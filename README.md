@@ -2,15 +2,14 @@
 
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihpurtas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihpurtas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samliumay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samliumay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
-  <h1>You can Check my personal Web site: <a href="[https://www.w3schools.com](https://samliumay.github.io/myPersonalWebPage/)">Visit W3Schools.com!</a> </h1>
-  <p>All explained all projects done </p>
-  
+<div align="center">
+  <h1>You can Check my personal Web site: <a href="https://samliumay.github.io/myPersonalWebPage/"></a> </h1>
+  <p>All explained all projects done so far.</p>
 </div>
 
 <div align="center">
