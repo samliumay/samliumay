@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Umay.<br> A highly motivated computer science student.<br> His main areas are cyber security, Machine Learning and Full-Stack development.</h2>
+<h2 align="center">Hi 👋! I'm Umay.<br> A highly motivated computer science student.<br>I Main focuses are cyber security, Machine Learning and Full-Stack development.</h2>
 
 <br>
 
