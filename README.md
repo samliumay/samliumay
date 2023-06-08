@@ -1,34 +1,33 @@
-- A extremly highly motivated computer science student.
-- I will focus on cyber security domain. I am not sure which part of the cyber security will I focus on.
-- My previous internships are mostly full-stack developing. 
-- Worked at SAVRONIK for my first summer internship. (For more information about company: http://www.savronik.com.tr/en/home/)
-    - I developed tester program for easy testing of main project.(JavaFX used for UI. TCP/IP protocols used for connection between main program and tester program.)
-    - Assisted software engineers by fixing some of the minor bugs at the main program.
-    - Assisted software engineers by implementing minor interfaces at the main program.(JavaFX used. for developing them.)
-    - Tried to develop the program that javaFX and postgreSQL actively used to the docker container.(In complete)
-- Worked at ASELSAN for my second summer internship. (For more information about company: https://www.aselsan.com.tr/)
-    - Developed a tool to create weekly work plan.
-        - C#, .NET and MongoDB were used in the project.  
-- I am currenlty working at TUSAŞ as Candicate Engineer. 
-    - I am working about optimization of item detection method.
-    - I am working on planing and integration of intelegent production tables. 
-    - I worked on datas about recognision systems. I processed the datas and planed new algorithms acording to calculations.   
-- My projects (Completed ones) (Both projects that I developed by my own or with a team) :
-    - Human Resource Management System
-        - Github page of the project: https://github.com/ZeroToHero2/Human-Resource-Management-System-with-JFoenix
-            - Done with a team. Other team member's github page is : https://github.com/ZeroToHero2
-        - An ML algirthm that we ( I did it with a team ) predicted Airline Passenger Satisfaction acording to the data. for modre detail look to: 
-            - https://github.com/samliumay/Algorithm-to-determine-Airline-Passenger-Satisfaction
-- My projects (In progress) :
-    - My own personal webside
-    - A comprehensive planing program. (Weekly, monthly, daily, special having note functions exc.)
-    - My own portScanner 
-    - My own cyber Security Training program - youtube/Beginers level
-    - My own Cyber Security Training Program - youtube/Medium level
-    - My own cyber Security Training Program - youtube/Advanced level
-    - Introduction to Network course - youtube
-    - Introduction to Cyrptography course- youtube
-    - Introdcution to Algorithms Part 1 course - youtube
-    - Introduction to Algorithms Part 2 course - youtube
-- For more information about me, you can check out my Linkedin profile [https://tr.linkedin.com/in/umay-şamli-5419b51bb]. 
-- If you are interested to work with me , contact with me via mail [samliumay965@gmail.com].
+<h2 align="center">Hi 👋! I'm Umat.<br> M main research and developlemnt areas are Cyber Security, Full stack development and Machine Learning.<br> I am sharing my projects and my interests.</h2>
+
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="270" src="https://www.instagram.com/p/Cs1UIpmNfyb/"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/umay-%C5%9Famli-5419b51bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/Deterministic finite automata#3032" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
