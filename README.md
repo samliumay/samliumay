@@ -29,5 +29,4 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="30" width="42"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="30" width="42"   />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="30" width="42"   />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="30" width="42"   />
 </div>
