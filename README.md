@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Umay. A highly motivated computer science student.<br>My Main focuses are cyber security, Machine Learning and Full-Stack development.</h2>
+<h2 align="center">Hi 👋! I'm Umay. <br>A highly motivated computer science student.<br>My Main focuses are cyber security, Machine Learning and Full-Stack development.</h2>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 
-<br>
+<hr>
 
 <div align="center">
   <h3>Tech's that I worked on</h3>
