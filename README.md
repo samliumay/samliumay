@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Umay.<br> A highly motivated computer science student.<br>I Main focuses are cyber security, Machine Learning and Full-Stack development.</h2>
+<h2 align="center">Hi 👋! I'm Umay.<br> A highly motivated computer science student.<br>My Main focuses are cyber security, Machine Learning and Full-Stack development.</h2>
 
 <br>
 
@@ -8,13 +8,14 @@
 </div>
 
 <div align="center">
-  <h3>You can Check <a href="https://samliumay.github.io/myPersonalWebPage/"> my personal web site </a>  for more information: for more information  </h3>
+  <h3>You can Check <a href="https://samliumay.github.io/myPersonalWebPage/"> my personal web site </a>  for more information.  </h3>
 </div>
 
 
 <br>
 
 <div align="center">
+  <h3>Tech's that I worked on</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" />
