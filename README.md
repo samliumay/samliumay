@@ -15,8 +15,18 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="30" width="42"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/thealgorithms/thealgorithms-original.svg" height="30" width="42"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-line.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" height="30" width="42"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="30" width="42"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="30" width="42"   />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="30" width="42"   />
 </div>
