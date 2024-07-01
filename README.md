@@ -6,6 +6,7 @@ Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer
 ### Area of Intersts:
 - AI and ML systems security
 - AI and ML systems penetration
+- ML algorithms and optimization of ML algorithms. 
 - Full-stack development
 - System engineering
 - Data structures and Algorithms
