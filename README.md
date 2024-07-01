@@ -26,7 +26,7 @@ I am a sofware Engineer(Full-stack) and Cyber Security Resarcher. I am highly mo
 - Sexual And non-sexual Human manipulation tecniques.
 
 ### I want to learn more about you and do an OSINT but how? 
-I will be putting my up-to-date CV and recomendation letters I to this repository. I will also putting all the social media links bellow. Other than that even I do not know more about myself. So I belive you kid. You got this. 
+I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that even I do not know more about myself. So I belive you kid. You got this. 
 
 
 
