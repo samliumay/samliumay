@@ -45,7 +45,7 @@ I will be putting my up-to-date CV and recomendation letters to this repository.
 
 
 ## About Me
-I am a sofware Engineer(Full-stack) and Cyber Security Resarcher. I am highly motivated. Becouse of my philosphical system, I can not give up. Becaouse of my system, my main goals are basically:
+I am a sofware Engineer(Full-stack) and Cyber Security Resarcher. I am highly motivated. Because of my philosphical system, I can not give up. Becaouse of my system, my main goals are basically:
 - Elite level CIS Penetration skills.
 - Elite level CIS Defending skills.
 - Elite level investigation and analysis skills.
