@@ -62,10 +62,5 @@ I will be putting my up-to-date CV and recomendation letters to this repository.
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/umay-samli-5419b51bb/" target="_blank">
-    <img src="Umay_Kuzey_SAMLI_1.jpg" height="500" alt="linkedin logo"  />
-  </a>
-</div>
 
 
