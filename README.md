@@ -31,12 +31,22 @@ I will be putting my up-to-date CV and recomendation letters to this repository.
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umay-samli-5419b51bb/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SamlUmay)
-
-[![instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/)](https://instagram.com/umay_samli)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/umay-samli-5419b51bb/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SamlUmay" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="X logo"  />
+  </a>
+  <a href="https://instagram.com/umay_samli" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/" height="35" alt="instagram logo"  />
+  </a>
+</div>
+<br>
+<div align="center">
+<img src="Umay_Kuzey_SAMLI_1.jpg" height="500" alt="linkedin logo"  />
+</div>
 
 
 
