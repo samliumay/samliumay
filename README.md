@@ -21,7 +21,7 @@ Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer
 - Log analysis and Active SOC Analysis (Basically SOC Analyst).
 
 ### I want to learn more about you and do an OSINT but how? 
-I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that even I do not know more about myself. So I belive you kid. You got this. 
+I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that you can reach me out from the websites. 
 
 ## 🔗 Links
 <div align="center">
