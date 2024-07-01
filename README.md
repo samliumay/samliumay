@@ -3,22 +3,16 @@
 
 Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer 
 
-### Currenlty I am working on:
+### Area of Intersts:
+- AI and ML systems security
+- AI and ML systems penetration
 - Full-stack development
-- ML/AI Algorithms
-- ML/AI Systems security
-- Penetration Testing - Normal
-- Penetration Testing - AI/ML Systems
-- Computer Networks
-- CIS Auditing and regulations
-- Information Assurance
-- Virtualization
-- Design Patterns 
-- Data structure and Algorithms
-- SOLID
-- ACID 
-- SDLC 
-- Log analysis and Active SOC Analysis (Basically SOC Analyst).
+- System engineering
+- Data structures and Algorithms
+- Human Manipulation Techniques
+- CIS Penetration
+- CIS Defending
+- CIS Auditing
 
 ### I want to learn more about you and do an OSINT but how? 
 I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that you can reach me out from the websites. 
