@@ -15,7 +15,7 @@ Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer
 - CIS Defending
 - CIS Auditing
 
-### I want to learn more about you and do an OSINT but how? 
+### I want to learn more about you but how? 
 I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that you can reach me out from the websites. 
 
 ## 🔗 Links
