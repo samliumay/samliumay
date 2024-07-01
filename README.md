@@ -1,5 +1,5 @@
 
-# Kuzet Umay SAMLI
+# Kuzey Umay SAMLI
 
 Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer 
 
