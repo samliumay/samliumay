@@ -20,7 +20,7 @@ I am a sofware Engineer(Full-stack) and Cyber Security Resarcher. I am highly mo
 - Elite level Islamic philosophy knowladge.(For tactical usage and assist)
 - Elite level theology knwoladge. (For tactical usage and assist)
 - Build a philosophical system. (Done but will be improved with more deeper knwoladge of philosophy)
-If you are interested about how to reach this analytically or just want to reach for job, contact from one of my social media. 
+#### If you are interested about how to reach this analytically or just want to reach for job, contact from one of my social media. 
 
 
 ### Currenlty I am working on:
