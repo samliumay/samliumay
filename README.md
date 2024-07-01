@@ -35,6 +35,7 @@ Basically I wrote mostly used algorithms and data structures. I will be giving t
 - DSAA-QuickSort
 - DSAA-Dynamic Programing
 - DSAA-Exercises
+
 Its generally finished but if there is any error or problems you see, feel free to message me. 
 
 ### Fog and Haze Remover
