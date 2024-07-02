@@ -1,7 +1,7 @@
 
 # Kuzey Umay SAMLI
 
-Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer 
+Cyber Security Resarcher / Software Engineer 
 
 ## Area of Intersts:
 - AI and ML systems security
