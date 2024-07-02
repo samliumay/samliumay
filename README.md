@@ -10,7 +10,6 @@ Cyber Security Resarcher / Amateur MMA Fighter / Software Engineer
 - Full-stack development
 - System engineering
 - Data structures and Algorithms
-- Human Manipulation Techniques
 - CIS Penetration
 - CIS Defending
 - CIS Auditing
