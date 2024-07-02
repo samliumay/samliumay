@@ -26,7 +26,7 @@ Cyber Security Resarcher / Software Engineer
 
 ## Projects
 ### DSAA 
-Basically I wrote mostly used algorithms and data structures. I will be giving the video lessons at the superpeer(In Turkish and English). But the codes and basic explanation will be avaiable on github. Also I will be explaining how to use at github either. So you can go at check it out. I recomend you to go with this order:
+I wrote most used algorithms and data structures. I will be giving the video lessons at the superpeer (In Turkish and English). However, the codes and basic explanation will be available on GitHub. In addition, I will be explaining how to use at GitHub either. So you can go at check it out. I recomend you to go with this order:
 - DSAA-Complexity -> https://github.com/samliumay/DSAA-Complexity
 - DSAA-LinkedList -> https://github.com/samliumay/DSAA-LinkedList
 - DSAA-DoubleLinkedList -> https://github.com/samliumay/DSAA-DoubleLinkedList
@@ -47,13 +47,13 @@ Basically I wrote mostly used algorithms and data structures. I will be giving t
 
 Its generally finished but if there is any error or problems you see, feel free to message me. 
 
-### Fog and Haze Remover
-This was our final project. We aimed to test different type of Dehazing algorithms to have clear image in %80 fog. We test manual dehazing algorithms and ML based dehazing algoriithms. Than we created a platform to test the algorithms in real time. Its at the page and its called:
-- FHR -> https://github.com/samliumay/FHR
+### FHR
+	This was our final project. We aimed to test different type of Dehazing algorithms to have clear image in %80 fog. We test manual dehazing algorithms and ML based dehazing algorithms. Than we created a platform to test the algorithms in real time. To reach the project, you can use the link bellow: 
+- FHR/Fog and Haze Remover-> https://github.com/samliumay/FHR
 
-### Human Resources Managment Project with JFOenix 
-This was our project for sofware engineering lesson. We aplied MVC design pattern and test the knowladge about SRS implementation use cases ext. Also we deoplyed the back-end and front-end of the program. Name of the project is:
-- HRMS -> https://github.com/samliumay/HRMS
+### HRMS
+	This was our project for software engineering lesson. We applied MVC design pattern and test the knowledge about SRS implementation use cases ext. Also we deployed the back-end and front-end of the program. To reach the project, you can use the link bellow:
+- HRMS/Human Resources Managment Project with JFOenix -> https://github.com/samliumay/HRMS
 
 
 ## Certifications 
