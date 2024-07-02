@@ -49,6 +49,9 @@ This was our project for sofware engineering lesson. We aplied MVC design patter
 ## I want to learn more about you but how? 
 I will be putting my up-to-date CV and recomendation letters to this repository. I will also putting all the social media links bellow. Other than that you can reach me out from the websites. 
 
+## Certifications 
+### Cyber Ops 
+
 ## 🔗 Links
 <div align="center">
   <a href="https://www.linkedin.com/in/umay-samli-5419b51bb/" target="_blank">
