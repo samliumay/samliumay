@@ -46,11 +46,12 @@ This was our final project. We aimed to test different type of Dehazing algorith
 This was our project for sofware engineering lesson. We aplied MVC design pattern and test the knowladge about SRS implementation use cases ext. Also we deoplyed the back-end and front-end of the program. Name of the project is:
 - HRMS
 
+
 ## Certifications 
 ###  Impact of Generative AI on Cyber Security
-Credential ID: UC-c8c35fd1-6d4d-4d76-9e2e-7eb685839cf3
-Credential URL: https://www.udemy.com/certificate/UC-27120df0-dacc-49bf-bc67-7bc0f409445b/
-Issuing organization: Udemy
+* Credential ID: UC-c8c35fd1-6d4d-4d76-9e2e-7eb685839cf3
+* Credential URL: https://www.udemy.com/certificate/UC-27120df0-dacc-49bf-bc67-7bc0f409445b/
+* Issuing organization: Udemy
 
 ### AI Security Essentials
 * Credential ID: UC-84809784-ee34-47aa-b405-a4e279c53d2f
