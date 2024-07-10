@@ -13,6 +13,7 @@ Cyber Security Resarcher / Software Engineer
 - CIS Penetration
 - CIS Defending
 - CIS Auditing
+- Reverse Engineering
 
 ## References
 
