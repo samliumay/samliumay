@@ -6,7 +6,7 @@ Cyber Security Resarcher / Software Engineer
 ## Area of Intersts:
 - AI and ML systems security
 - AI and ML systems penetration
-- ML algorithms and optimization of ML algorithms. 
+- ML algorithms and optimization of ML algorithms.
 - Full-stack development
 - System engineering
 - Data structures and Algorithms
@@ -14,6 +14,10 @@ Cyber Security Resarcher / Software Engineer
 - CIS Defending
 - CIS Auditing
 - Reverse Engineering
+- Data structures and Algorithms
+- SQL and NoSQL Architecture
+- Theory Of Computation 
+- Operating Systems
 
 ## References
 
