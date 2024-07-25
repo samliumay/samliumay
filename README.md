@@ -30,7 +30,7 @@ Cyber Security Resarcher / Software Engineer
 | Laureano Fernández Olmos | IA Specialist at NAPMA  | laure.f.o@gmail.com | +34 649 99 84 12  | - |
 | Leo Fehmi Aslan | Senior Cyber Security Analyst at NATO/NCIA  | fehmiaslan38@gmail.com  | +34 649 99 84 12  | - |
 | Fabrizio Colalongo | Zero Trust Consultant at NATO | falconfab@gmail.com  | - | - |
-| Sinan Toprak  | Senior Consultant/Program Manager NATO | stoprak@me.com | +491711274765 | - |
+| Sinan Toprak  | Senior Consultant/Program Manager at NATO | stoprak@me.com | +491711274765 | - |
 ## Projects
 ### DSAA 
 I wrote most used algorithms and data structures. I will be giving the video lessons at the superpeer (In Turkish and English). However, the codes and basic explanation will be available on GitHub. In addition, I will be explaining how to use at GitHub either. So you can go at check it out. I recomend you to go with this order:
