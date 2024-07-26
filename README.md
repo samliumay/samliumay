@@ -54,14 +54,17 @@ I wrote most used algorithms and data structures. I will be giving the video les
 
 Its generally finished but if there is any error or problems you see, feel free to message me. 
 
-### FHR
+### FHR - Fog and Haze Remover
 This was our final project. We aimed to test different type of Dehazing algorithms to have clear image in %80 fog. We test manual dehazing algorithms and ML based dehazing algorithms. Than we created a platform to test the algorithms in real time. To reach the project, you can use the link bellow: 
-- FHR/Fog and Haze Remover-> https://github.com/samliumay/FHR
+-> https://github.com/samliumay/FHR
 
-### HRMS
+### HRMS - Human Resources Managment Project with JFOenix
 This was our project for software engineering lesson. We applied MVC design pattern and test the knowledge about SRS implementation use cases ext. Also we deployed the back-end and front-end of the program. To reach the project, you can use the link bellow:
-- HRMS/Human Resources Managment Project with JFOenix -> https://github.com/samliumay/HRMS
+-> https://github.com/samliumay/HRMS
 
+### ROOAPSEA - Resarch Of Optimal Airline Passenger Satisfaction Estimation Algorithm
+A project to resarch the optimal ML Algorithm and Model to estimate Airplane Pessanger Satisfaction. Analyzed most of the possible models and created a report about the performance of the algorithms. Can be usefull while implementing and ML Algorithm for some type of airline satisfaction model. 
+-> https://github.com/samliumay/ROOAPSEA
 
 ## Certifications 
 
