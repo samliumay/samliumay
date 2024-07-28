@@ -112,7 +112,7 @@ A project to resarch the optimal ML Algorithm and Model to estimate Airplane Pes
 * Issuing organization: Udemy
 
 
-### Cyber Security Blue Team
+### Cyber Security - Blue Team
 
 #### Applied Basic Linux&CEH and Penetration Testing Training
 * Credential ID: 1YGWd9cGyPeCdvfkOoBmZF-26eL-2y3N6
