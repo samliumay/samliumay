@@ -67,6 +67,10 @@ This was our project for software engineering lesson. We applied MVC design patt
 A project to resarch the optimal ML Algorithm and Model to estimate Airplane Pessanger Satisfaction. Analyzed most of the possible models and created a report about the performance of the algorithms. Can be usefull while implementing and ML Algorithm for some type of airline satisfaction model. 
 -> https://github.com/samliumay/ROOAPSEA
 
+### SOLIDEP - SOLID Explanation Project
+I was working on SOLID princibles. One day, I decided to create lessons and study materials. This is my SOLID princibles lesson. I want to teach you the SOLID princlbes with projects and codes. But still in my superpeer, you will able to found the detailed lessons about SOLID princibles.
+-> https://github.com/samliumay/SOLIDEP
+
 ## Certifications 
 
 ### Networking 
