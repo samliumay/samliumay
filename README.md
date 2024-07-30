@@ -77,141 +77,18 @@ I was working on SOLID princibles. One day, I decided to create lessons and stud
 
 ## Certifications 
 
-### Networking 
-
-#### CCNA 
+### CCNA 
 * Credential ID: b36ae222-435b-4dbe-8bdf-51a3dfe9787a
 * Credential URL: https://www.credly.com/badges/b36ae222-435b-4dbe-8bdf-51a3dfe9787a/linked_in_profile
 * Issuing organization: CISCO
 
-
-### Cyber Security Blue Team
-
-#### CyberOps Associate
+### CyberOps Associate
 * Credential ID: 4a0f3976-c520-47e2-8b74-fb1650d02ba1
 * Credential URL: https://www.credly.com/badges/4a0f3976-c520-47e2-8b74-fb1650d02ba1/linked_in_profile
 * Issuing organization: CISCO
 
-
-### AI/ML Security
-
-####  Impact of Generative AI on Cyber Security
-* Credential ID: UC-c8c35fd1-6d4d-4d76-9e2e-7eb685839cf3
-* Credential URL: https://www.udemy.com/certificate/UC-27120df0-dacc-49bf-bc67-7bc0f409445b/
-* Issuing organization: Udemy
-
-#### AI Security Essentials
-* Credential ID: UC-84809784-ee34-47aa-b405-a4e279c53d2f
-* Credential URL: https://www.udemy.com/certificate/UC-84809784-ee34-47aa-b405-a4e279c53d2f/
-* Issuing organization: Udemy
-
-#### Generative AI - Risk and Cyber Security Masterclass 2024
-* Credential ID: UC-64fc381b-d34d-4331-afb0-16da11aab56d
-* Credential URL: https://ibmcsr.udemy.com/certificate/UC-64fc381b-d34d-4331-afb0-16da11aab56d/
-* Issuing organization: Udemy
-
-#### Artificial Intelligence Risk and Cyber Security Course 2024 
-* Credential ID: UC-7b3ea34f-1a6d-4e60-ab52-e9aa46718570
-* Credential URL: https://udemy-certificate.s3.amazonaws.com/pdf/UC-7b3ea34f-1a6d-4e60-ab52-e9aa46718570.pd
-* Issuing organization: Udemy
-
-#### NIST AI Risk Management Framework (RMF) Masterclass 2024
-* Credential ID: UC-27120df0-dacc-49bf-bc67-7bc0f409445b
-* Credential URL: https://www.udemy.com/certificate/UC-27120df0-dacc-49bf-bc67-7bc0f409445b/
-* Issuing organization: Udemy
-
-
-### Cyber Security - Blue Team
-
-#### Applied Basic Linux&CEH and Penetration Testing Training
-* Credential ID: 1YGWd9cGyPeCdvfkOoBmZF-26eL-2y3N6
-* Credential URL: https://drive.google.com/file/d/1YGWd9cGyPeCdvfkOoBmZF-26eL-2y3N6/view
-* Issuing organization: Turkish Cyber Security Cluster
-
-
-### Operating System
-
-#### LINUX ESSENTIALS
-* Credential ID: 4a0f3976-c520-47e2-8b74-fb1650d02ba1
-* Credential URL: https://www.credly.com/badges/4a0f3976-c520-47e2-8b74-fb1650d02ba1/linked_in_profile
-* Issuing organization: CISCO
-
-
-### Software Engineering 
-
-#### Akbank Python Bootcamp
-* Credential ID: eyJ1c2VyLWlkIjoxNjA0MTksImNvdXJzZS1pZCI6MTIwNDQ4LCJjZXJ0LWlkIjoiMTIwNDUxIn0=
-* Credential URL: https://globalaihub.com/certificate-share/eyJ1c2VyLWlkIjoxNjA0MTksImNvdXJzZS1pZCI6MTIwNDQ4LCJjZXJ0LWlkIjoiMTIwNDUxIn0=
-* Issuing organization: Akbank
-
-#### Intermediate Python
-* Credential ID: #27,199,183
-* Credential URL: https://www.datacamp.com/statement-of-accomplishment/course/0edac7247c8688549d0018f9becbd87ccc088fd0
-* Issuing organization: Datacamp
-
-#### Introduction to Data Science in Python
-* Credential ID: #27,207,015
-* Credential URL: https://www.datacamp.com/statement-of-accomplishment/course/6a86cb1371cbadfb2efb599e0f636dd254e92d69
-* Issuing organization: Datacamp
-
-#### Introduction to Python
-* Credential ID: #27,196,814
-* Credential URL: https://www.datacamp.com/statement-of-accomplishment/course/47885c661066ff6cedd2badcb19c16dfb118b1c6
-* Issuing organization: Datacamp
-
-
-### Language
-
-#### Certification of C1 English proficiency
-* Credential ID: 432B0443ADV
-* Credential URL: https://www.iteptest.com/reports/certificate.php?p=4f3be337a0d862e6e093899246259c60Axf39
-* Issuing organization: iTEP
-
-
-### Cyber Security Governance 
-
-#### Managing Cybersecurity
-* Credential ID: https://coursera.org/share/cdefecd30e5b047c277c90968876715f
-* Credential URL: https://www.coursera.org/account/accomplishments/specialization/PHUAZEGWEEPP
-* Issuing organization: iTEP
-
-#### Managing Cybersecurity Incidents and Disasters
-* Credential ID: WWYD9Q75KPV5
-* Credential URL: https://www.coursera.org/account/accomplishments/certificate/WWYD9Q75KPV5
-* Issuing organization: University System of Georgia
-
-#### Road to the CISO – Culminating Project Course
-* Credential ID: LFDGNA3BX9LL
-* Credential URL: https://www.coursera.org/account/accomplishments/certificate/LFDGNA3BX9LL
-* Issuing organization: University System of Georgia
-
-#### The Foundations of Cybersecurity
-* Credential ID: 6UETF8FHS8QR
-* Credential URL: https://www.coursera.org/account/accomplishments/certificate/6UETF8FHS8QR
-* Issuing organization: University System of Georgia
-
-#### The Foundations of Cybersecurity
-* Credential ID: 6UETF8FHS8QR
-* Credential URL: https://www.coursera.org/account/accomplishments/certificate/6UETF8FHS8QR
-* Issuing organization: University System of Georgia
-
-#### The GRC Approach to Managing Cybersecurity
-* Credential ID: HLGFG2TAEXPK
-* Credential URL: https://www.coursera.org/account/accomplishments/certificate/HLGFG2TAEXPK
-* Issuing organization: University System of Georgia
-
-### Data Science
-
-#### Python Data Science Toolbox (Part 1)
-* Credential ID: #27,212,124
-* Credential URL: https://www.datacamp.com/statement-of-accomplishment/course/b42497573b7e8c80a92cfafd7a92bc6f6c861e42
-* Issuing organization: Datacamp
-
-#### Python Data Science Toolbox (Part 2)
-* Credential ID: #27,212,945
-* Credential URL: https://www.datacamp.com/statement-of-accomplishment/course/7f2cee0cdda889508b1d112d0a3f304a59211f3a
-* Issuing organization: Datacamp
-
+#### Note
+I Have a lot of certification. But I prefer to put the most important ones. Still if you want to check it out, you can look to my Linkedin. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umay-samli-5419b51bb/)
