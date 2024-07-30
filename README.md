@@ -26,12 +26,12 @@ Cyber Security Researcher / Software Engineer
 | Burak Ekici  | Senior Resarcher at Oxford | burak.ekici@cs.ox.ac.uk | +44 779 636 59 51 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf |
 | Holger Spohn  | CIS Security Supervisor at NATO / Head of IA Pilar of J2 X IA | spohni@aol.com / Holger.SPOHN@shape.nato.int | +32 475 55 17 45 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf |
 | Ulas Gulec | CEO at Simovate / Assistant Professor at TED University / Project Consultant at Simsoft | ulas.gulec@tedu.edu.tr | +90 535 765 60 01 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TEDU.pdf |
+| Emin Kuğu | Asistant Professor at TED University | emin.kugu@tedu.edu.tr | +905306922783 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf |
 | Kadri Yetis | Chief Technology Officer, VP of Software Engineering, MS  | usamli@yahoo.com | +90 533 454 17 99 | - |
 | Laureano Fernández Olmos | IA Specialist at NAPMA  | laure.f.o@gmail.com | +34 649 99 84 12  | - |
 | Leo Fehmi Aslan | Senior Cyber Security Analyst at NATO/NCIA  | fehmiaslan38@gmail.com  | +34 649 99 84 12  | - |
 | Fabrizio Colalongo | Zero Trust Consultant at NATO | falconfab@gmail.com  | +34 649 99 84 12 | - |
 | Sinan Toprak | Senior Consultant/Program Manager at NATO | stoprak@me.com | +491711274765 | - |
-| Emin Kuğu | Asistant Professor at TED University | emin.kugu@tedu.edu.tr | +905306922783 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf |
 ## Projects
 ### DSAA 
 I wrote most used algorithms and data structures. I will be giving the video lessons at the superpeer (In Turkish and English). However, the codes and basic explanation will be available on GitHub. In addition, I will be explaining how to use at GitHub either. So you can go at check it out. I recomend you to go with this order:
