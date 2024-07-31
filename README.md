@@ -24,7 +24,7 @@ Cyber Security Researcher / Software Engineer
 | Name Surname| Title | Mail | Phone Number | Reference/Recomentation Letter |
 | :--- | :---: |  :---: |  :---: | :---: |
 | Burak Ekici  | Senior Resarcher at Oxford | burak.ekici@cs.ox.ac.uk | +44 779 636 59 51 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf |
-| Holger Spohn  | CIS Security Supervisor at NATO / Head of IA Pilar of J2 X IA | spohni@aol.com / Holger.SPOHN@shape.nato.int | +32 475 55 17 45 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf |
+| Holger Spohn  | CIS Security Supervisor at NATO / Head of IA Pilar of J2 X IA | spohni@aol.com / Holger.SPOHN@shape.nato.int | - | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf |
 | Ulas Gulec | CEO at Simovate / Assistant Professor at TED University / Project Consultant at Simsoft | ulas.gulec@tedu.edu.tr | +90 535 765 60 01 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TEDU.pdf |
 | Emin Kuğu | Asistant Professor at TED University | emin.kugu@tedu.edu.tr | +905306922783 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf |
 | Kadri Yetis | Chief Technology Officer, VP of Software Engineering, MS  | usamli@yahoo.com | +90 533 454 17 99 | - |
