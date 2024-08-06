@@ -75,6 +75,11 @@ I was working on SOLID princibles. One day, I decided to create lessons and stud
 
 -> https://github.com/samliumay/SOLIDEP
 
+### PDLK -> Planing Development LifeCycle of Kuzey
+This is my planing and development life cycle. This lifecycle is designed to cover most of the aspects of your life and strucutre them in a systematic way. Framework itself is based on experiences based on ADHD, Agile development and Waterfall developments strong parts. I was able to observe the agile part at software development experiences and Waterfall part at NATO. Recomend you to at least check it out if you are strugling with ADHD or planing. 
+
+-> https://github.com/samliumay/PDLK
+
 ## Certifications 
 
 ### CCNA 
@@ -86,6 +91,11 @@ I was working on SOLID princibles. One day, I decided to create lessons and stud
 * Credential ID: 4a0f3976-c520-47e2-8b74-fb1650d02ba1
 * Credential URL: https://www.credly.com/badges/4a0f3976-c520-47e2-8b74-fb1650d02ba1/linked_in_profile
 * Issuing organization: CISCO
+
+### Managing Cybersecurity
+* Credential ID: PHUAZEGWEEPP
+* Credential URL: https://www.coursera.org/account/accomplishments/specialization/PHUAZEGWEEPP
+* Issuing organization: Kennesaw State University
 
 #### Note
 I Have a lot of certification. But I prefer to put the most important ones. Still if you want to check it out, you can look to my Linkedin. 
