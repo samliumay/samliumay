@@ -1,7 +1,7 @@
 
 # Kuzey Umay SAMLI
 
-Cyber Security Researcher / Software Engineer / Social Engineering / Intelligence 
+Cyber Security Researcher / Software Engineer / Social Engineering / Intelligence / Sexpionage 
 
 ## Area of Intersts:
 - AI and ML systems security
