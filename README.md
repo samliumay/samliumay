@@ -18,6 +18,7 @@ Software Engineer / Social Engineering / Intelligence / Sexpionage / Cyber Secur
 - SQL and NoSQL Architecture
 - Theory Of Computation 
 - Operating Systems
+- Networking 
 
 ## References
 
