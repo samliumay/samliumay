@@ -1,7 +1,7 @@
 
 # Kuzey Umay SAMLI
 
-Software Engineer / Social Engineering / Intelligence / Sexpionage / Cyber Security / Cyber Governance 
+Software Engineer / Social Engineering / Intelligence / Cyber Security / Cyber Governance 
 
 ## References
 
