@@ -1,7 +1,7 @@
 
 # Kuzey Umay SAMLI
 
-Software Engineer / Social Engineering / Intelligence / Cyber Security / Cyber Governance 
+Full Stack Developer / Cyber Security Engineer
 
 ## References
 
