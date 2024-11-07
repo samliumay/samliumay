@@ -5,7 +5,7 @@ Full Stack Developer / Cyber Security Engineer
 
 ## References
 
-| Name Surname| Title | Mail | Phone Number | Reference/Recomentation Letter |
+| Name Surname | Title | Mail | Phone Number | Reference/Recomentation Letter |
 | :--- | :---: |  :---: |  :---: | :---: |
 | Burak Ekici  | Senior Resarcher at Oxford | burak.ekici@cs.ox.ac.uk | +44 779 636 59 51 | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf |
 | Holger Spohn  | CIS Security Supervisor at at the Supreme Headquarters Allied Powers Europe (SHAPE) of NATO/ Head of IA Pilar of J2 X IA | spohni@aol.com / Holger.SPOHN@shape.nato.int | (I am not allowed to put his phone. Reach to him via mail or via numbers at the reference letter) | https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn- |
