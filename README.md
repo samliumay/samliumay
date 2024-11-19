@@ -37,6 +37,12 @@ I wrote most used algorithms and data structures. I will be giving the video les
 
 Its generally finished but if there is any error or problems you see, feel free to message me. 
 
+### Hotel Booking Site
+Was a porject to recover my fullstack skills. Hotel booking site with strong features. You can check it out:
+
+-> https://github.com/samliumay/hotel-booking-react
+-> https://the-wild-oasis-gilt-zeta.vercel.app/register
+
 ### FHR - Fog and Haze Remover
 This was our final project. We aimed to test different type of Dehazing algorithms to have clear image in %80 fog. We test manual dehazing algorithms and ML based dehazing algorithms. Than we created a platform to test the algorithms in real time. To reach the project, you can use the link bellow: 
 
