@@ -50,18 +50,6 @@ This was our project for software engineering lesson. We applied MVC design patt
 ### ROOAPSEA - Resarch Of Optimal Airline Passenger Satisfaction Estimation Algorithm
 A project to resarch the optimal ML Algorithm and Model to estimate Airplane Pessanger Satisfaction. Analyzed most of the possible models and created a report about the performance of the algorithms. Can be usefull while implementing and ML Algorithm for some type of airline satisfaction model. 
 
--> https://github.com/samliumay/ROOAPSEA
-
-### SOLIDEP - SOLID Explanation Project
-I was working on SOLID princibles. One day, I decided to create lessons and study materials. This is my SOLID princibles lesson. I want to teach you the SOLID princlbes with projects and codes. But still in my superpeer, you will able to found the detailed lessons about SOLID princibles.
-
--> https://github.com/samliumay/SOLIDEP
-
-### PDLK -> Planing Development LifeCycle of Kuzey
-This is my planing and development life cycle. This lifecycle is designed to cover most of the aspects of your life and strucutre them in a systematic way. Framework itself is based on experiences based on ADHD, Agile development and Waterfall developments strong parts. I was able to observe the agile part at software development experiences and Waterfall part at NATO. Recomend you to at least check it out if you are strugling with ADHD or planing. 
-
--> https://github.com/samliumay/PDLK
-
 ## Certifications 
 
 ### CCNA 
