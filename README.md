@@ -20,6 +20,7 @@ Full Stack Developer / Cyber Security Engineer
 Was a porject to recover my fullstack skills. Hotel booking site with strong features. You can check it out:
 
 -> https://github.com/samliumay/hotel-booking-react
+
 -> https://the-wild-oasis-gilt-zeta.vercel.app/register
 
 ### FHR - Fog and Haze Remover
