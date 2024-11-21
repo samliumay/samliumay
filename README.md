@@ -15,27 +15,6 @@ Full Stack Developer / Cyber Security Engineer
 | Kadri Yetis | Chief Technology Officer, VP of Software Engineering, MS  | usamli@yahoo.com | +90 533 454 17 99 | - |
 | Leo Fehmi Aslan | Senior Cyber Security Analyst at NATO/NCIA  | fehmiaslan38@gmail.com  | +34 649 99 84 12  | - |
 ## Projects
-### DSAA 
-I wrote most used algorithms and data structures. I will be giving the video lessons at the superpeer (In Turkish and English). However, the codes and basic explanation will be available on GitHub. In addition, I will be explaining how to use at GitHub either. So you can go at check it out. I recomend you to go with this order:
-- DSAA-Complexity -> https://github.com/samliumay/DSAA-Complexity
-- DSAA-LinkedList -> https://github.com/samliumay/DSAA-LinkedList
-- DSAA-DoubleLinkedList -> https://github.com/samliumay/DSAA-DoubleLinkedList
-- DSAA-Stack -> https://github.com/samliumay/DSAA-Stack
-- DSAA-Queue -> https://github.com/samliumay/DSAA-Queue
-- DSAA-Trees -> https://github.com/samliumay/DSAA-Trees
-- DSAA-HashTables -> https://github.com/samliumay/DSAA-HashTables
-- DSAA-Graphs -> https://github.com/samliumay/DSAA-Graphs
-- DSAA-Heaps -> https://github.com/samliumay/DSAA-Heaps
-- DSAA-Recursion -> https://github.com/samliumay/DSAA-Recursion
-- DSAA-RecursionBasedBinarySearchTrees -> https://github.com/samliumay/DSAA-RecursionBasedBinarySearchTrees
-- DSAA-TreeTraversal -> https://github.com/samliumay/DSAA-TreeTraversal
-- DSAA-BasicSorts -> https://github.com/samliumay/DSAA-BasicSorts
-- DSAA-MergeSort -> https://github.com/samliumay/DSAA-MergeSort
-- DSAA-QuickSort -> https://github.com/samliumay/DSAA-QuickSort
-- DSAA-Dynamic Programing -> https://github.com/samliumay/DSAA-DynamicPrograming
-- DSAA-Exercises -> https://github.com/samliumay/DSAA-Exercises
-
-Its generally finished but if there is any error or problems you see, feel free to message me. 
 
 ### Hotel Booking Site
 Was a porject to recover my fullstack skills. Hotel booking site with strong features. You can check it out:
