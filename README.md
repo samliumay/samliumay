@@ -1,7 +1,7 @@
 
 # Kuzey Umay SAMLI
 
-Full Stack Developer / Cyber Security Engineer
+Computer Scientist
 
 ## References
 
