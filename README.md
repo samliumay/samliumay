@@ -26,7 +26,6 @@ This project was created to refresh and strengthen my full-stack development ski
 It’s a hotel booking platform with rich features.
 
 - [GitHub Repository](https://github.com/samliumay/hotel-booking-react)  
-- [Live Demo](https://the-wild-oasis-gilt-zeta.vercel.app/register)
 
 ---
 
