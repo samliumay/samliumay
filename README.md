@@ -1,46 +1,6 @@
 
 # **Kuzey Umay ŞAMLI**
 
-## **Projects**
-### **Hotel Booking Site**
-This project was created to refresh and strengthen my full-stack development skills.  
-It’s a hotel booking platform with rich features.
-
-- [GitHub Repository](https://github.com/samliumay/hotel-booking-react)  
-
----
-
-### **FHR - Fog and Haze Remover**
-This was our final project. We aimed to test different types of dehazing algorithms to achieve clear image visibility under 80% fog.  
-We compared traditional (manual) and machine learning-based dehazing algorithms, then developed a platform to test them in real time.
-
-- [GitHub Repository](https://github.com/samliumay/FHR)
-
----
-
-### **HRMS - Human Resources Management System (with JFoenix)**
-A software engineering project where we applied the MVC design pattern and implemented SRS use cases.  
-We deployed both the back-end and front-end of the system.
-
-- [GitHub Repository](https://github.com/samliumay/HRMS)
-
----
-
-### **ROOAPSEA - Research on Optimal Airline Passenger Satisfaction Estimation Algorithm**
-A research project focused on finding the most effective machine learning algorithms for predicting airline passenger satisfaction.  
-We analyzed multiple models and created a performance report — useful for designing ML-based satisfaction estimation systems.
-
-- [GitHub Repository](https://github.com/samliumay/ROOAPSEA)
-
----
-
-### **CIR- ChatGPT React Integration**
-A usefull integration of react with chatgpt. Works like an agent for coding. 
-
-- [GitHub Repository](https://github.com/samliumay/chatgpt-integration-react)
-
----
-
 ## **References**
 
 | Name Surname | Title | Email | Phone Number | Reference/Recommendation Letter |
@@ -53,6 +13,51 @@ A usefull integration of react with chatgpt. Works like an agent for coding.
 | **Kadri Yetis** | Chief Technology Officer, VP of Software Engineering, MS | usamli@yahoo.com | +90 533 454 17 99 | - |
 | **Leo Fehmi Aslan** | Senior Cyber Security Analyst at NATO/NCIA | fehmiaslan38@gmail.com | +34 649 99 84 12 | - |
 | **Luke O'Brien** | Senior Cyber Security Engineer - NATO/CDT | OBrien.Luke@hq.nato.int / Luke.OBrien@devops.ncia.nato.int | +44 7975 94 86 98 | - |
+---
+
+## **Projects**
+
+### **Serious Projects**
+
+---
+
+#### **FHR - Fog and Haze Remover**
+This was our final project. We aimed to test different types of dehazing algorithms to achieve clear image visibility under 80% fog.  
+We compared traditional (manual) and machine learning-based dehazing algorithms, then developed a platform to test them in real time.
+
+- [GitHub Repository](https://github.com/samliumay/FHR)
+
+---
+
+#### **CIR- ChatGPT React Integration**
+A usefull integration of react with chatgpt. Works like an agent for coding. 
+
+- [GitHub Repository](https://github.com/samliumay/chatgpt-integration-react)
+
+---
+
+### **For Fun Projects**
+
+#### **Hotel Booking Site**
+This project was created to refresh and strengthen my full-stack development skills.  
+It’s a hotel booking platform with rich features.
+
+- [GitHub Repository](https://github.com/samliumay/hotel-booking-react)  
+
+#### **HRMS - Human Resources Management System (with JFoenix)**
+A software engineering project where we applied the MVC design pattern and implemented SRS use cases.  
+We deployed both the back-end and front-end of the system.
+
+- [GitHub Repository](https://github.com/samliumay/HRMS)
+
+---
+
+#### **ROOAPSEA - Research on Optimal Airline Passenger Satisfaction Estimation Algorithm**
+A research project focused on finding the most effective machine learning algorithms for predicting airline passenger satisfaction.  
+We analyzed multiple models and created a performance report — useful for designing ML-based satisfaction estimation systems.
+
+- [GitHub Repository](https://github.com/samliumay/ROOAPSEA)
+
 ---
 
 ## Notes
