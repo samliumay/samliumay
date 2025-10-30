@@ -1,9 +1,6 @@
 
 # **Kuzey Umay ŞAMLI**
 
-**Computer Scientist**
-
----
 ## **Projects**
 ### **Hotel Booking Site**
 This project was created to refresh and strengthen my full-stack development skills.  
