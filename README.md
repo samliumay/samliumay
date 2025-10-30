@@ -1,5 +1,5 @@
 
-# **Kuzey Umay SAMLI**
+# **(Kuzey [Kuzey is not currently part of my name techichally but it will be.) Umay SAMLI**
 
 **Computer Scientist**
 
