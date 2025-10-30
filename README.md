@@ -1,5 +1,5 @@
 
-# **(Kuzey [Kuzey is not currently part of my name techichally but it will be.) Umay SAMLI**
+# **Kuzey Umay ŞAMLI**
 
 **Computer Scientist**
 
@@ -37,6 +37,13 @@ We analyzed multiple models and created a performance report — useful for desi
 
 ---
 
+### **CIR- ChatGPT React Integration**
+A usefull integration of react with chatgpt. Works like an agent for coding. 
+
+- [GitHub Repository](https://github.com/samliumay/chatgpt-integration-react)
+
+---
+
 ## **References**
 
 | Name Surname | Title | Email | Phone Number | Reference/Recommendation Letter |
@@ -51,10 +58,6 @@ We analyzed multiple models and created a performance report — useful for desi
 | **Luke O'Brien** | Senior Cyber Security Engineer - NATO/CDT | OBrien.Luke@hq.nato.int / Luke.OBrien@devops.ncia.nato.int | +44 7975 94 86 98 | - |
 ---
 
-### **Note**
-I hold numerous certifications, but I prefer to highlight the most relevant ones here.  
-For the complete list, please visit my [LinkedIn profile](https://www.linkedin.com/in/umay-samli-5419b51bb/).
-
----
-
+## Notes
+Kuzey is not currently part of my name techichally but it will be at the feature.
 
