@@ -80,9 +80,4 @@ For the complete list, please visit my [LinkedIn profile](https://www.linkedin.c
 
 ---
 
-## **🔗 Links**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umay-samli-5419b51bb/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://instagram.com/umay_samli)
-
 
