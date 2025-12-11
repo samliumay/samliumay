@@ -1,6 +1,6 @@
-# Kuzey Umay ŞAMLI
+# [Kuzey] Umay ŞAMLI
 
-## 📜 References
+## References
 
 | Name / Surname | Title | Email | Phone Number | Reference Letter |
 | :--- | :--- | :--- | :--- | :---: |
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### **Core Engineering Projects**
 
@@ -58,5 +58,5 @@
 
 ---
 
-### 📝 Notes
+### Notes about my name
 > *"Kuzey"* is not currently part of my legal name, but it will be adopted in the near future.
