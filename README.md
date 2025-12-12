@@ -21,7 +21,7 @@
 
 #### **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
 *Engineering-Driven Life Operating System*
-* **Status:** 🚧 **Under Construction (v1.0 Alpha)**
+* **Status:** **Under Construction (v1.0 Alpha)**
 * **Objective:** An ADHD-optimized personal management platform designed to solve executive dysfunction through data-driven constraints.
 * **Key Features:** Features a custom "Realism Point" (RP) algorithm to calculate daily load factors, an "Auto-Distribution Engine" for task scheduling, and a "Diamond System" for relational entity management.
 * **Stack:** React, Spring Boot, PostgreSQL, Docker.
