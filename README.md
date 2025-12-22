@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Kuzey] Umay ŞAMLI 👋
+# Hi there, I'm [Kuzey] Umay ŞAMLI 
 
 ### Computer Scientist | AI Security Resarcher
 
@@ -12,28 +12,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discrete Math, Theory of Automata, and Scalable Systems.
 
 ---
 
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-
----
-
-## 🚀 Projects
+## Projects
 
 ### **Core Engineering Projects**
 
-#### 🧠 **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
+#### **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
 > *Engineering-Driven Life Operating System*
 * **Status:** `v1.0 Alpha (Under Construction)`
 * **Objective:** An ADHD-optimized personal management platform designed to solve executive dysfunction through data-driven constraints.
@@ -43,13 +32,13 @@ Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discret
     * **Diamond System:** Advanced relational entity management.
 * **Stack:** `React` `Spring Boot` `PostgreSQL` `Docker`
 
-#### 🌫️ **[FHR - Fog and Haze Remover](https://github.com/samliumay/FHR)**
+#### **[FHR - Fog and Haze Remover](https://github.com/samliumay/FHR)**
 > *Computer Vision Research Platform*
 * **Objective:** Designed to test dehazing algorithms for clear image visibility under extreme conditions (80% fog density).
 * **Scope:** Comparative platform testing traditional vs. machine learning-based algorithms in real-time.
 * **Status:** `Final Project`
 
-#### 🤖 **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
+#### **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
 > *AI Integration Tool*
 * **Objective:** Functional integration of OpenAI's ChatGPT with a React frontend.
 * **Utility:** Acts as an intelligent coding agent and assistant within a custom web interface.
@@ -66,7 +55,7 @@ Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discret
 
 ---
 
-## 📄 References
+## References
 
 | Name | Title | Contact Info | Reference Letter |
 | :--- | :--- | :--- | :---: |
