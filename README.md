@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Kuzey] Umay ŞAMLI 👋
 
-### Software Engineer | Researcher | System Architect
+### Computer Scientist | AI Security Resarcher
 
 [![Website](https://img.shields.io/badge/Website-umaysamli.com-blue?style=for-the-badge&logo=google-chrome)](https://umaysamli.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umaysamli)
