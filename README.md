@@ -14,9 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> **[Insert Bio from umaysamli.com here]**
->
-> *Example placeholder based on your profile:* > I am a passionate software engineer and researcher with a focus on algorithm design, system architecture, and cybersecurity. My work ranges from computer vision research to developing ADHD-optimized personal management systems. I have had the privilege of collaborating with professionals from NATO, University of Oxford, and TED University.
+Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discrete Math, Theory of Automata, and Scalable Systems.
 
 ---
 
