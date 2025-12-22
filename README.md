@@ -1,62 +1,88 @@
-# [Kuzey] Umay ŞAMLI
+<div align="center">
 
-## References
+# Hi there, I'm [Kuzey] Umay ŞAMLI 👋
 
-| Name / Surname | Title | Email | Phone Number | Reference Letter |
-| :--- | :--- | :--- | :--- | :---: |
-| **Dr. Burak Ekici** | Senior Researcher at University of Oxford | burak.ekici@cs.ox.ac.uk | +44 779 636 59 51 | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
-| **Holger Spohn** | CISO, Head of Operational IT & AIM - Candriam (Formerly at NATO SHAPE) | spohni@aol.com <br> Holger.SPOHN@shape.nato.int | *(Contact via email or refer to the letter)* | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
-| **Dr. Ulaş Güleç** | CEO at Simovate / Asst. Prof. at TEDU / Project Consultant at Simsoft | ulas.gulec@tedu.edu.tr | +90 535 765 60 01 | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
-| **Dr. Emin Kuğu** | Assistant Professor at TED University | emin.kugu@tedu.edu.tr | +90 530 692 27 83 | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
-| **Andrea Accetta** | Head of Cyber Operations at SHAPE - NATO | cybersec.itanavy@yahoo.com | +32 490 49 99 63 | - |
-| **Kadri Yetiş** | Chief Technology Officer, VP of Software Engineering, MS | usamli@yahoo.com | +90 533 454 17 99 | - |
-| **Leo Fehmi Aslan** | Senior Cyber Security Analyst at NATO/NCIA | fehmiaslan38@gmail.com | +34 649 99 84 12 | - |
-| **Luke O'Brien** | Senior Cyber Security Engineer - NATO/CDT | OBrien.Luke@hq.nato.int <br> Luke.OBrien@devops.ncia.nato.int | +44 7975 94 86 98 | - |
+### Software Engineer | Researcher | System Architect
+
+[![Website](https://img.shields.io/badge/Website-umaysamli.com-blue?style=for-the-badge&logo=google-chrome)](https://umaysamli.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umaysamli)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:usamli@yahoo.com)
+
+</div>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
+
+> **[Insert Bio from umaysamli.com here]**
+>
+> *Example placeholder based on your profile:* > I am a passionate software engineer and researcher with a focus on algorithm design, system architecture, and cybersecurity. My work ranges from computer vision research to developing ADHD-optimized personal management systems. I have had the privilege of collaborating with professionals from NATO, University of Oxford, and TED University.
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projects
 
 ### **Core Engineering Projects**
 
-#### **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
-*Engineering-Driven Life Operating System*
-* **Status:** **Under Construction (v1.0 Alpha)**
+#### 🧠 **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
+> *Engineering-Driven Life Operating System*
+* **Status:** `v1.0 Alpha (Under Construction)`
 * **Objective:** An ADHD-optimized personal management platform designed to solve executive dysfunction through data-driven constraints.
-* **Key Features:** Features a custom "Realism Point" (RP) algorithm to calculate daily load factors, an "Auto-Distribution Engine" for task scheduling, and a "Diamond System" for relational entity management.
-* **Stack:** React, Spring Boot, PostgreSQL, Docker.
+* **Key Features:**
+    * **RP Algorithm:** Custom "Realism Point" logic to calculate daily load factors.
+    * **Auto-Distribution:** Engine for smart task scheduling.
+    * **Diamond System:** Advanced relational entity management.
+* **Stack:** `React` `Spring Boot` `PostgreSQL` `Docker`
 
-#### **[FHR - Fog and Haze Remover](https://github.com/samliumay/FHR)**
-*Computer Vision Research Platform*
-* **Objective:** Designed to test various dehazing algorithms to achieve clear image visibility under extreme conditions (80% fog density).
-* **Scope:** Developed a comparative platform to test traditional (manual) vs. machine learning-based algorithms in real-time.
-* **Status:** Final Project.
+#### 🌫️ **[FHR - Fog and Haze Remover](https://github.com/samliumay/FHR)**
+> *Computer Vision Research Platform*
+* **Objective:** Designed to test dehazing algorithms for clear image visibility under extreme conditions (80% fog density).
+* **Scope:** Comparative platform testing traditional vs. machine learning-based algorithms in real-time.
+* **Status:** `Final Project`
 
-#### **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
-*AI Integration Tool*
-* **Objective:** A functional integration of OpenAI's ChatGPT with a React frontend.
+#### 🤖 **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
+> *AI Integration Tool*
+* **Objective:** Functional integration of OpenAI's ChatGPT with a React frontend.
 * **Utility:** Acts as an intelligent coding agent and assistant within a custom web interface.
 
----
+<br>
 
 ### **Experimental & Learning Projects**
 
-#### **[ROOAPSEA - Passenger Satisfaction Estimation](https://github.com/samliumay/ROOAPSEA)**
-*Data Science & Machine Learning Research*
-* **Full Title:** Research on Optimal Airline Passenger Satisfaction Estimation Algorithm.
-* **Scope:** Analyzed multiple ML models to determine the most effective algorithm for predicting passenger satisfaction.
-* **Output:** Produced a comprehensive performance report useful for designing future estimation systems.
-
-#### **[HRMS - Human Resources Management System](https://github.com/samliumay/HRMS)**
-*Software Architecture Implementation*
-* **Stack:** Java (JFoenix), MVC Pattern.
-* **Scope:** A complete software engineering project applying the MVC design pattern to implement SRS use cases. Both backend and frontend were successfully deployed.
-
-#### **[Hotel Booking Site](https://github.com/samliumay/hotel-booking-react)**
-*Full-Stack Development*
-* **Objective:** A feature-rich hotel booking platform built to refresh and strengthen full-stack development skills.
+| Project | Description | Stack/Scope |
+| :--- | :--- | :--- |
+| **[ROOAPSEA](https://github.com/samliumay/ROOAPSEA)** | **Research on Optimal Airline Passenger Satisfaction Estimation Algorithm.** Analyzed multiple ML models to predict passenger satisfaction. | *Data Science & ML* |
+| **[HRMS](https://github.com/samliumay/HRMS)** | **Human Resources Management System.** A complete software engineering project applying the MVC design pattern to implement SRS use cases. | *Java (JFoenix), MVC* |
+| **[Hotel Booking](https://github.com/samliumay/hotel-booking-react)** | **Full-Stack Booking Platform.** A feature-rich hotel booking platform built to refresh and strengthen full-stack development skills. | *Full-Stack React* |
 
 ---
 
-### Notes about my name
-> *"Kuzey"* is not currently part of my legal name, but it will be adopted in the near future.
+## 📄 References
+
+| Name | Title | Contact Info | Reference Letter |
+| :--- | :--- | :--- | :---: |
+| **Dr. Burak Ekici** | Senior Researcher<br>@ **University of Oxford** | burak.ekici@cs.ox.ac.uk<br>+44 779 636 59 51 | [**View PDF**](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
+| **Holger Spohn** | CISO, Head of Operational IT<br>@ **Candriam** (Formerly NATO) | spohni@aol.com<br>*(Refer to letter)* | [**View PDF**](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
+| **Dr. Ulaş Güleç** | CEO @ **Simovate**<br>Asst. Prof. @ **TEDU** | ulas.gulec@tedu.edu.tr<br>+90 535 765 60 01 | [**View PDF**](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
+| **Dr. Emin Kuğu** | Assistant Professor<br>@ **TED University** | emin.kugu@tedu.edu.tr<br>+90 530 692 27 83 | [**View PDF**](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
+| **Andrea Accetta** | Head of Cyber Operations<br>@ **SHAPE - NATO** | cybersec.itanavy@yahoo.com<br>+32 490 49 99 63 | - |
+| **Kadri Yetiş** | CTO, VP Software Engineering<br>@ **MS** | usamli@yahoo.com<br>+90 533 454 17 99 | - |
+| **Leo Fehmi Aslan** | Senior Cyber Security Analyst<br>@ **NATO/NCIA** | fehmiaslan38@gmail.com<br>+34 649 99 84 12 | - |
+| **Luke O'Brien** | Senior Cyber Security Engineer<br>@ **NATO/CDT** | OBrien.Luke@hq.nato.int<br>+44 7975 94 86 98 | - |
+
+---
+
+<div align="center">
+  <sub><b>Note:</b> "Kuzey" is not currently part of my legal name, but it will be adopted in the near future.</sub>
+</div>
