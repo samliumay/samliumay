@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-umaysamli.com-blue?style=for-the-badge&logo=google-chrome)](https://umaysamli.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umaysamli)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:usamli@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:umay.samli@tedu.edu.tr)
 
 </div>
 
