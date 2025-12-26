@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hi there, I'm [Kuzey] Umay ŞAMLI 
+### Computer Scientist | AI Security Resarcher
 <div align="center">
   <sub><b>Note:</b> "Kuzey" is not currently part of my legal name, but it will be adopted in the near future.</sub>
 </div>
-
-### Computer Scientist | AI Security Resarcher
 
 ## About Me
 
