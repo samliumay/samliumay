@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm [Kuzey] Umay ŞAMLI 
 ### Computer Scientist | AI Security Resarcher
 <div align="center">
