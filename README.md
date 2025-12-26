@@ -1,16 +1,10 @@
 <div align="center">
 
 # Hi there, I'm [Kuzey] Umay ŞAMLI 
-
-### Computer Scientist | AI Security Resarcher
-
-[![Website](https://img.shields.io/badge/Website-umaysamli.com-blue?style=for-the-badge&logo=google-chrome)](https://umaysamli.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umaysamli)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:umay.samli@tedu.edu.tr)
-
+<div align="center">
+  <sub><b>Note:</b> "Kuzey" is not currently part of my legal name, but it will be adopted in the near future.</sub>
 </div>
-
----
+### Computer Scientist | AI Security Resarcher
 
 ## About Me
 
@@ -69,7 +63,3 @@ Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discret
 | **Luke O'Brien** | Senior Cyber Security Engineer<br>@ **NATO/CDT** | OBrien.Luke@hq.nato.int<br>+44 7975 94 86 98 | - |
 
 ---
-
-<div align="center">
-  <sub><b>Note:</b> "Kuzey" is not currently part of my legal name, but it will be adopted in the near future.</sub>
-</div>
