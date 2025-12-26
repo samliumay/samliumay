@@ -10,44 +10,13 @@
 
 Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discrete Math, Theory of Automata, and Scalable Systems.
 
----
-
 ## Projects
-
-### **Core Engineering Projects**
-
-#### **[TPF - Tactical Planning Framework](https://github.com/samliumay/tactical_planing_framework)**
-> *Engineering-Driven Life Operating System*
-* **Status:** `v1.0 Alpha (Under Construction)`
-* **Objective:** An ADHD-optimized personal management platform designed to solve executive dysfunction through data-driven constraints.
-* **Key Features:**
-    * **RP Algorithm:** Custom "Realism Point" logic to calculate daily load factors.
-    * **Auto-Distribution:** Engine for smart task scheduling.
-    * **Diamond System:** Advanced relational entity management.
-* **Stack:** `React` `Spring Boot` `PostgreSQL` `Docker`
-
-#### **[FHR - Fog and Haze Remover](https://github.com/samliumay/FHR)**
-> *Computer Vision Research Platform*
-* **Objective:** Designed to test dehazing algorithms for clear image visibility under extreme conditions (80% fog density).
-* **Scope:** Comparative platform testing traditional vs. machine learning-based algorithms in real-time.
-* **Status:** `Final Project`
 
 #### **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
 > *AI Integration Tool*
 * **Objective:** Functional integration of OpenAI's ChatGPT with a React frontend.
+* **Scope:** Comparative platform testing traditional vs. machine learning-based algorithms in real-time.
 * **Utility:** Acts as an intelligent coding agent and assistant within a custom web interface.
-
-<br>
-
-### **Experimental & Learning Projects**
-
-| Project | Description | Stack/Scope |
-| :--- | :--- | :--- |
-| **[ROOAPSEA](https://github.com/samliumay/ROOAPSEA)** | **Research on Optimal Airline Passenger Satisfaction Estimation Algorithm.** Analyzed multiple ML models to predict passenger satisfaction. | *Data Science & ML* |
-| **[HRMS](https://github.com/samliumay/HRMS)** | **Human Resources Management System.** A complete software engineering project applying the MVC design pattern to implement SRS use cases. | *Java (JFoenix), MVC* |
-| **[Hotel Booking](https://github.com/samliumay/hotel-booking-react)** | **Full-Stack Booking Platform.** A feature-rich hotel booking platform built to refresh and strengthen full-stack development skills. | *Full-Stack React* |
-
----
 
 ## References
 
