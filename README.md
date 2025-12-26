@@ -1,16 +1,10 @@
-# Hi there, I'm [Kuzey] Umay ŞAMLI 
-### Computer Scientist | AI Security Resarcher
-<div>
-  <sub><b>Note:</b> "Kuzey" is not currently part of my legal name, but it will be adopted in the near future.</sub>
-</div>
+# Hi there, I'm Umay ŞAMLI 
+### Computer Scientist | AI Security Resarcher>
 
 ## About Me
 
-Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discrete Math, Theory of Automata, and Scalable Systems.
+Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discrete Math, Theory of Automata, and Scalable Systems. Also working on human manipulation, espionage and theory of intependent theology. Check my repos of more. 
 
-## Projects
-
-#### **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
 ## References
 
 | Name | Title | Contact Info | Reference Letter |
