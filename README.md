@@ -13,10 +13,6 @@ Computer scientist focusing on Reinforcement Learning, AI Security, XAI, Discret
 ## Projects
 
 #### **[CIR - ChatGPT React Integration](https://github.com/samliumay/chatgpt-integration-react)**
--Objective: Functional integration of OpenAI's ChatGPT with a React frontend.
--Scope: Comparative platform testing traditional vs. machine learning-based algorithms in real-time.
--Utility: Acts as an intelligent coding agent and assistant within a custom web interface.
-
 ## References
 
 | Name | Title | Contact Info | Reference Letter |
