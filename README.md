@@ -1,5 +1,5 @@
 # Hi there, I'm Umay ŞAMLI 
-### Computer Scientist | AI Security Resarcher>
+### Computer Scientist | AI Security Resarcher
 
 ## About Me
 
