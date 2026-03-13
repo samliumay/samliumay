@@ -11,7 +11,7 @@
 
 ## Focus Areas
 
-`AI Security` `XAI` `Reinforcement Learning` `Theory of Automata` `Discrete Math` `Scalable Systems`
+`AI Security` `XAI` `Reinforcement Learning` `Discrete Math` `Robotics (Humanoids)`
 
 ## Experience
 
