@@ -28,7 +28,7 @@
 ## Education
 
 | Degree | Institution | GPA | Period |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- | :---: |
 | Masters, Computer Science | **TED University** | ? | Jan 2026 - ? |
 | BSc, Computer Engineering | **TED University** | 3.8 / 4.0 | Sep 2019 - Jun 2023 |
 | Secondary Degree, Applied Data Science | **TED University** | 4.0 / 4.0 | Feb 2021 - Jun 2023 |
