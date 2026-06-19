@@ -17,6 +17,7 @@
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
+| Resarcher | **TED University** | Jun 2026 - present |
 | Software Engineer | **Infinitum IT** | Nov 2025 - Jun 2026 |
 | Cyber Security Engineer | **NATO** | May 2025 - Nov 2025 |
 | Lead Software Engineer | **Histocan** | Jan 2025 - Apr 2025 |
@@ -29,7 +30,7 @@
 
 | Degree | Institution | GPA | Period |
 | :--- | :--- | :--- | :---: |
-| Masters, Computer Science | **TED University** | ? | Jan 2026 - ? |
+| Masters, Computer Science | **TED University** | 4.0 / 4.0 | Jan 2026 - ? |
 | BSc, Computer Engineering | **TED University** | 3.8 / 4.0 | Sep 2019 - Jun 2023 |
 | Secondary Degree, Applied Data Science | **TED University** | 4.0 / 4.0 | Feb 2021 - Jun 2023 |
 
