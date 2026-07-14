@@ -21,10 +21,10 @@
 | Software Engineer | **Infinitum IT** | Nov 2025 - Jun 2026 |
 | Cyber Security Engineer | **NATO** | May 2025 - Nov 2025 |
 | Lead Software Engineer | **Histocan** | Jan 2025 - Apr 2025 |
-| Cyber Security Engineer | **NATO** | Sep 2023 - Oct 2024 |
-| Software Engineer | **TAI (Turkish Aerospace)** | Nov 2022 - May 2023 |
-| Software Engineer | **ASELSAN** | Jul 2022 - Aug 2022 |
-| Software Engineer | **Savronik** | Jun 2021 - Sep 2021 |
+| Intern Cyber Security Engineer | **NATO** | Sep 2023 - Oct 2024 |
+| Candidate Software Engineer | **TAI (Turkish Aerospace)** | Nov 2022 - May 2023 |
+| Intern Software Engineer | **ASELSAN** | Jul 2022 - Aug 2022 |
+| Intern Software Engineer | **Savronik** | Jun 2021 - Sep 2021 |
 
 ## Education
 
