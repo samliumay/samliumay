@@ -73,7 +73,9 @@
 <div align="center">
   <strong>Research · Engineer · Secure</strong>
   <br /><br />
-  <sub>Current language favorites: <code>Rust</code> · <code>C++</code> · <code>Java</code></sub>
+  <sub>Current language favorites</sub>
+  <br />
+  🦀 <code>Rust</code> &nbsp;·&nbsp; ⚙️ <code>C++</code> &nbsp;·&nbsp; ☕ <code>Java</code>
   <br /><br />
   <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
