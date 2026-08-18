@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Umay Samli — AI Security, Cybersecurity, Research, Software Engineering, and Data Science" width="100%" />
+  <img src="./assets/profile-header.svg" alt="AI Security" width="100%" />
 
   <br />
 
@@ -19,10 +19,9 @@
     <td>
       <h2>About me</h2>
       <p>
-        I am a <strong>computer scientist and AI security researcher</strong> with experience spanning
-        cybersecurity, software engineering, and applied data science. My background includes research
-        at TED University and engineering roles at NATO, Infinitum IT, Histocan, Turkish Aerospace,
-        ASELSAN, and Savronik.
+        I am a <strong>computer scientist and researcher focused on AI security</strong>. Previously, I
+        worked across cybersecurity and software engineering roles at NATO, Infinitum IT, Histocan,
+        Turkish Aerospace, ASELSAN, and Savronik.
       </p>
       <p><strong>Currently:</strong> Researcher at TED University · MSc in Computer Science</p>
     </td>
@@ -34,9 +33,9 @@
 | | Area | Perspective |
 | :---: | :--- | :--- |
 | 🛡️ | **AI Security** | Researching security at the intersection of AI and computing |
+| 🧩 | **Low-Level Development** | Operating systems, systems internals, and close-to-the-metal engineering |
 | 🔐 | **Cybersecurity** | Experience across operational and engineering environments |
 | ⚙️ | **Software Engineering** | Building on roles across research, aerospace, health, and IT |
-| 📊 | **Applied Data Science** | Academic foundation alongside computer engineering |
 
 ## Experience
 
