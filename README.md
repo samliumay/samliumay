@@ -71,7 +71,6 @@
 <br />
 
 <div align="center">
-  <strong>Research · Engineer · Secure</strong>
   <br /><br />
   <sub>Current language favorites</sub>
   <br />
