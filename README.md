@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" alt="AI Security" width="100%" />
-
-  <br /><br /><br />
-
-  <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://x.com/umaysamli"><img src="https://img.shields.io/badge/@umaysamli-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</div>
-
-<br />
-
 <table>
   <tr>
     <td width="175" align="center">
@@ -86,5 +73,8 @@
 <div align="center">
   <strong>Research · Engineer · Secure</strong>
   <br /><br />
-  <a href="https://umaysamli.com">Explore my work at umaysamli.com →</a>
+  <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/umaysamli"><img src="https://img.shields.io/badge/@umaysamli-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </div>
