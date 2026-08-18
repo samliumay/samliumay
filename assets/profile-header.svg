@@ -13,6 +13,11 @@
       <stop offset="0.42" stop-color="#EF4444"/>
       <stop offset="1" stop-color="#EF4444" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="hotRed" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#450A0A"/>
+      <stop offset="0.5" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#7F1D1D"/>
+    </linearGradient>
     <radialGradient id="targetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(992 140) rotate(90) scale(164)">
       <stop stop-color="#DC2626" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
@@ -21,6 +26,17 @@
       <path d="M38 0H0V38" stroke="#FCA5A5" stroke-opacity="0.045"/>
       <circle cx="1" cy="1" r="1" fill="#F87171" fill-opacity="0.11"/>
     </pattern>
+    <pattern id="hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <rect width="12" height="28" fill="#DC2626"/>
+      <rect x="12" width="16" height="28" fill="#09090B"/>
+    </pattern>
+    <filter id="grit" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" seed="19" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="1 0 0 0 0
+                                                        0 0.08 0 0 0
+                                                        0 0 0.08 0 0
+                                                        0 0 0 0.22 0"/>
+    </filter>
     <filter id="redGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
@@ -37,10 +53,22 @@
     <rect width="1200" height="280" fill="url(#background)"/>
     <rect width="1200" height="280" fill="url(#grid)"/>
     <rect x="760" width="440" height="280" fill="url(#targetGlow)"/>
+    <rect width="1200" height="280" filter="url(#grit)" opacity="0.38"/>
+
+    <rect width="1200" height="7" fill="url(#hazard)" opacity="0.72"/>
+    <rect y="273" width="1200" height="7" fill="url(#hazard)" opacity="0.38"/>
 
     <path d="M-20 35L350 -44H511L75 51L-20 69V35Z" fill="#991B1B" fill-opacity="0.2"/>
     <path d="M729 302L1220 197V234L895 302H729Z" fill="#DC2626" fill-opacity="0.13"/>
     <path d="M780 -20L1198 83M735 305L1218 181" stroke="#EF4444" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M492 -10L429 90L477 79L413 180L553 45L494 57L548 -10H492Z" fill="url(#hotRed)" fill-opacity="0.18"/>
+    <path d="M705 4L662 82L698 73L649 153L756 52L713 60L756 4H705Z" fill="#EF4444" fill-opacity="0.12"/>
+
+    <g stroke-linecap="round">
+      <path d="M23 236L294 178M9 258L210 215M528 255L782 200" stroke="#EF4444" stroke-opacity="0.14" stroke-width="3"/>
+      <path d="M182 32L355 10M201 44L424 16M588 267L744 234" stroke="#FCA5A5" stroke-opacity="0.09"/>
+      <path d="M802 28L845 18M811 38L873 23M1088 251L1170 233" stroke="#F87171" stroke-opacity="0.42" stroke-width="2"/>
+    </g>
 
     <g opacity="0.34">
       <path d="M831 16L892 4L836 93L805 99L855 37L831 16Z" fill="#EF4444"/>
@@ -49,13 +77,16 @@
     </g>
 
     <rect x="70" y="70" width="5" height="140" rx="2.5" fill="#DC2626"/>
+    <text x="111" y="159" fill="#7F1D1D" fill-opacity="0.75" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="800" letter-spacing="11">AI SECURITY</text>
     <text x="105" y="164" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="800" letter-spacing="11">AI SECURITY</text>
     <rect x="106" y="190" width="610" height="3" rx="1.5" fill="url(#redLine)"/>
+    <path d="M116 205H183M194 205H226M240 205H349" stroke="#EF4444" stroke-opacity="0.48" stroke-width="2"/>
 
     <g transform="translate(992 140)">
       <circle r="92" stroke="#EF4444" stroke-opacity="0.18"/>
       <circle r="70" stroke="#F87171" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="42 12 8 15"/>
       <circle r="47" stroke="#EF4444" stroke-opacity="0.24"/>
+      <path d="M-101 -36A107 107 0 0 1 -67 -84M77 76A108 108 0 0 1 45 98" stroke="#EF4444" stroke-width="5"/>
       <path d="M-112 0H-78M78 0H112M0 -112V-78M0 78V112" stroke="#F87171" stroke-width="2"/>
       <path d="M-82 -82L-65 -65M82 -82L65 -65M82 82L65 65M-82 82L-65 65" stroke="#7F1D1D" stroke-width="3"/>
       <circle r="4" fill="#FCA5A5" filter="url(#redGlow)"/>
@@ -67,6 +98,10 @@
       <path d="M0 14V22" stroke="#FEE2E2" stroke-width="3" stroke-linecap="round"/>
     </g>
 
+    <g fill="#EF4444">
+      <circle cx="847" cy="104" r="2"/><circle cx="861" cy="97" r="1.5"/><circle cx="852" cy="117" r="1"/>
+      <circle cx="1113" cy="143" r="1.5"/><circle cx="1125" cy="151" r="2"/><circle cx="1117" cy="162" r="1"/>
+    </g>
     <path d="M28 30H52M28 30V54M1148 226V250H1124" stroke="#EF4444" stroke-opacity="0.65" stroke-width="2"/>
   </g>
 

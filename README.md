@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/profile-header.svg" alt="AI Security" width="100%" />
 
-  <br />
+  <br /><br /><br />
 
   <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -30,12 +30,17 @@
 
 ## Areas of focus
 
-| | Area | Perspective |
+> 🛡️ **AI Security** — Security research at the intersection of artificial intelligence and computing.
+>
+> 🧩 **Low-Level Development** — Operating systems, systems internals, and close-to-the-metal engineering.
+
+## Experienced with
+
+| | Area | Background |
 | :---: | :--- | :--- |
-| 🛡️ | **AI Security** | Researching security at the intersection of AI and computing |
-| 🧩 | **Low-Level Development** | Operating systems, systems internals, and close-to-the-metal engineering |
-| 🔐 | **Cybersecurity** | Experience across operational and engineering environments |
-| ⚙️ | **Software Engineering** | Building on roles across research, aerospace, health, and IT |
+| 🔐 | **Cybersecurity** | Operational and engineering environments |
+| ⚙️ | **Back-End Engineering** | Server-side systems and application development |
+| 📊 | **Data Science** | Applied data science and analytical foundations |
 
 ## Experience
 
@@ -57,6 +62,8 @@
 | **Jan 2026 — Present** | Master's · Computer Science | **TED University** | **4.0 / 4.0** |
 | Sep 2019 — Jun 2023 | BSc · Computer Engineering | **TED University** | **3.8 / 4.0** |
 | Feb 2021 — Jun 2023 | Secondary Degree · Applied Data Science | **TED University** | **4.0 / 4.0** |
+
+<br />
 
 <details>
   <summary><strong>Professional references and letters</strong></summary>
