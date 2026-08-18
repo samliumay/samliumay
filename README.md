@@ -1,54 +1,84 @@
-# Umay SAMLI
+<div align="center">
+  <img src="./assets/profile-header.svg" alt="Umay Samli — AI Security, Cybersecurity, Research, Software Engineering, and Data Science" width="100%" />
 
-**Computer Scientist**
+  <br />
 
-[![Website](https://img.shields.io/badge/umaysamli.com-000?style=flat-square&logo=safari&logoColor=white)](https://umaysamli.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umay-samli-5419b51bb)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w)
-[![X](https://img.shields.io/badge/@umaysamli-000?style=flat-square&logo=x&logoColor=white)](https://x.com/umaysamli)
+  <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/channel/UCnzcJuHK6ATJ7gyY5jIaX3w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/umaysamli"><img src="https://img.shields.io/badge/@umaysamli-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</div>
 
----
+<br />
 
-## Focus Areas
+<table>
+  <tr>
+    <td width="175" align="center">
+      <img src="./Umay_Kuzey_SAMLI_1.jpg" width="145" alt="Portrait of Umay Samli" />
+    </td>
+    <td>
+      <h2>About me</h2>
+      <p>
+        I am a <strong>computer scientist and AI security researcher</strong> with experience spanning
+        cybersecurity, software engineering, and applied data science. My background includes research
+        at TED University and engineering roles at NATO, Infinitum IT, Histocan, Turkish Aerospace,
+        ASELSAN, and Savronik.
+      </p>
+      <p><strong>Currently:</strong> Researcher at TED University · MSc in Computer Science</p>
+    </td>
+  </tr>
+</table>
 
-`AI Security`
+## Areas of focus
+
+| | Area | Perspective |
+| :---: | :--- | :--- |
+| 🛡️ | **AI Security** | Researching security at the intersection of AI and computing |
+| 🔐 | **Cybersecurity** | Experience across operational and engineering environments |
+| ⚙️ | **Software Engineering** | Building on roles across research, aerospace, health, and IT |
+| 📊 | **Applied Data Science** | Academic foundation alongside computer engineering |
 
 ## Experience
 
-| Role | Organization | Period |
+| Period | Role | Organization |
 | :--- | :--- | :--- |
-| Resarcher | **TED University** | Jun 2026 - present |
-| Software Engineer | **Infinitum IT** | Nov 2025 - Jun 2026 |
-| Cyber Security Engineer | **NATO** | May 2025 - Nov 2025 |
-| Lead Software Engineer | **Histocan** | Jan 2025 - Apr 2025 |
-| Intern Cyber Security Engineer | **NATO** | Sep 2023 - Oct 2024 |
-| Candidate Software Engineer | **TAI (Turkish Aerospace)** | Nov 2022 - May 2023 |
-| Intern Software Engineer | **ASELSAN** | Jul 2022 - Aug 2022 |
-| Intern Software Engineer | **Savronik** | Jun 2021 - Sep 2021 |
+| **Jun 2026 — Present** | Researcher | **TED University** |
+| Nov 2025 — Jun 2026 | Software Engineer | **Infinitum IT** |
+| May 2025 — Nov 2025 | Cyber Security Engineer | **NATO** |
+| Jan 2025 — Apr 2025 | Lead Software Engineer | **Histocan** |
+| Sep 2023 — Oct 2024 | Cyber Security Engineer Intern | **NATO** |
+| Nov 2022 — May 2023 | Candidate Software Engineer | **TAI · Turkish Aerospace** |
+| Jul 2022 — Aug 2022 | Software Engineer Intern | **ASELSAN** |
+| Jun 2021 — Sep 2021 | Software Engineer Intern | **Savronik** |
 
 ## Education
 
-| Degree | Institution | GPA | Period |
+| Period | Degree | Institution | GPA |
 | :--- | :--- | :--- | :---: |
-| Masters, Computer Science | **TED University** | 4.0 / 4.0 | Jan 2026 - ? |
-| BSc, Computer Engineering | **TED University** | 3.8 / 4.0 | Sep 2019 - Jun 2023 |
-| Secondary Degree, Applied Data Science | **TED University** | 4.0 / 4.0 | Feb 2021 - Jun 2023 |
+| **Jan 2026 — Present** | Master's · Computer Science | **TED University** | **4.0 / 4.0** |
+| Sep 2019 — Jun 2023 | BSc · Computer Engineering | **TED University** | **3.8 / 4.0** |
+| Feb 2021 — Jun 2023 | Secondary Degree · Applied Data Science | **TED University** | **4.0 / 4.0** |
 
-## References
+<details>
+  <summary><strong>Professional references and letters</strong></summary>
+  <br />
 
-| Name | Title | Reference Letter |
-| :--- | :--- | :---: |
-| **Dr. Burak Ekici** | Senior Researcher @ **University of Oxford** | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
-| **Holger Spohn** | CISO, Head of Operational IT @ **Candriam** (Formerly NATO) | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
-| **Dr. Ulas Gulec** | CEO @ **Simovate**, Asst. Prof. @ **TEDU** | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
-| **Dr. Emin Kugu** | Assistant Professor @ **TED University** | [View PDF](https://github.com/samliumay/samliumay/blob/main/CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
-| **Andrea Accetta** | Head of Cyber Operations @ **SHAPE - NATO** | - |
-| **Kadri Yetis** | CTO, VP Software Engineering @ **MS** | - |
-| **Leo Fehmi Aslan** | Senior Cyber Security Analyst @ **NATO/NCIA** | - |
-| **Luke O'Brien** | Senior Cyber Security Engineer @ **NATO/CDT** | - |
+  | Name | Title | Letter |
+  | :--- | :--- | :---: |
+  | **Dr. Burak Ekici** | Senior Researcher · **University of Oxford** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
+  | **Holger Spohn** | CISO, Head of Operational IT · **Candriam** (formerly NATO) | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
+  | **Dr. Ulas Gulec** | CEO · **Simovate** / Assistant Professor · **TED University** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
+  | **Dr. Emin Kugu** | Assistant Professor · **TED University** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
+  | **Andrea Accetta** | Head of Cyber Operations · **SHAPE / NATO** | — |
+  | **Kadri Yetis** | CTO, VP Software Engineering · **MS** | — |
+  | **Leo Fehmi Aslan** | Senior Cyber Security Analyst · **NATO / NCIA** | — |
+  | **Luke O'Brien** | Senior Cyber Security Engineer · **NATO / CDT** | — |
+</details>
 
----
+<br />
 
-<p align="center">
-  <a href="https://umaysamli.com"><strong>umaysamli.com</strong></a>
-</p>
+<div align="center">
+  <strong>Research · Engineer · Secure</strong>
+  <br /><br />
+  <a href="https://umaysamli.com">Explore my work at umaysamli.com →</a>
+</div>
