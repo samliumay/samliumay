@@ -23,6 +23,16 @@
 | <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236e7781" width="18" alt="" /> | **AI Security** | Offensive and defensive security of AI and ML systems: red teaming, LLM and agent security, guardrails, alignment |
 | <img src="https://api.iconify.design/lucide/cpu.svg?color=%236e7781" width="18" alt="" /> | **Low-Level Development** | Operating systems, systems internals, and close-to-the-metal engineering |
 
+## Areas worked on
+
+| | Area | Background |
+| :---: | :--- | :--- |
+| <img src="https://api.iconify.design/lucide/lock.svg?color=%236e7781" width="18" alt="" /> | **Cybersecurity** | Cloud security architecture and auditing, zero trust, attack trees, ISO 27001/27005, NIST 800-53 and NIST AI RMF (NATO); breach and attack simulation, SIEM/EDR integration (InfinitumIT) |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%236e7781" width="18" alt="" /> | **AI and LLM Engineering** | LLM integration, function calling, structured output, context engineering, MCP development, AI red teaming, LLM firewalls and guardrails |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%236e7781" width="18" alt="" /> | **Back-End and Full-Stack** | Spring, FastAPI, Node.js, .NET; React, Next.js; PostgreSQL, MongoDB; Docker; shipping products end to end (Hanami Products) |
+| <img src="https://api.iconify.design/lucide/chart-line.svg?color=%236e7781" width="18" alt="" /> | **Data Science and ML** | PyTorch, scikit-learn, NumPy, Pandas; computer vision for production monitoring (TAI); applied data science degree |
+| <img src="https://api.iconify.design/lucide/factory.svg?color=%236e7781" width="18" alt="" /> | **Industrial and Defence Systems** | IIoT/PLC factory tracing for UAV assembly (TAI), test platforms for train systems (Savronik), scheduling tools (Aselsan) |
+
 ## Selected projects
 
 | Project | What | Status |
