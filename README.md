@@ -6,9 +6,9 @@
     <td>
       <h2>About me</h2>
       <p>
-        I am a <strong>computer scientist focused on AI security, both offensive and defensive</strong>,
-        including agentic AI protocol security (A2A, MCP). I engineered the backbone across backend,
-        frontend, and complex system design, so the research ships.
+        I am a <strong>computer scientist focused on two areas: AI security, both offensive and defensive,
+        and low-level development</strong>. I engineered the backbone across backend, frontend, and complex
+        system design, so the research ships.
       </p>
       <p><strong>Currently:</strong> Researcher at TED University · MSc in Computer Engineering · founder of <a href="https://hanamiproducts.com">Hanami Products</a></p>
       <p><strong>Other account:</strong> <a href="https://github.com/kuzeytheconqueror">@kuzeytheconqueror</a> — used for starting and checking out other projects</p>
@@ -20,10 +20,8 @@
 
 | | Area | Background |
 | :---: | :--- | :--- |
-| <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236e7781" width="18" alt="" /> | **AI Security** | Offensive and defensive security of AI and ML systems: red teaming, LLM application testing, guardrails |
-| <img src="https://api.iconify.design/lucide/network.svg?color=%236e7781" width="18" alt="" /> | **Agentic AI** | Security, alignment, and detection of misaligned LLM agents |
-| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%236e7781" width="18" alt="" /> | **Protocol Security** | Agent interoperability protocols (A2A, MCP): attack surfaces and mitigations |
-| <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%236e7781" width="18" alt="" /> | **XAI** | Explainable AI and AI black-box problems |
+| <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236e7781" width="18" alt="" /> | **AI Security** | Offensive and defensive security of AI and ML systems: red teaming, LLM and agent security, guardrails, alignment |
+| <img src="https://api.iconify.design/lucide/cpu.svg?color=%236e7781" width="18" alt="" /> | **Low-Level Development** | Operating systems, systems internals, and close-to-the-metal engineering |
 
 ## Selected projects
 
