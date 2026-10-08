@@ -69,10 +69,10 @@ More on [umaysamli.com/projects](https://umaysamli.com/projects).
 
   | Name | Title | Letter |
   | :--- | :--- | :---: |
-  | **Dr. Burak Ekici** | Senior Researcher · **University of Oxford** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
-  | **Holger Spohn** | CISO, Head of Operational IT · **Candriam** (formerly Principal Engineer, Cyber Defence, NATO HQ) | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
-  | **Dr. Ulas Gulec** | CEO · **Simovate** / Assistant Professor · **TED University** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
-  | **Dr. Emin Kugu** | Assistant Professor · **TED University** | [View PDF](./CVs_and_Letters/Recommendation%20and%20Reference%20Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
+  | **Dr. Burak Ekici** | Senior Researcher · **University of Oxford** | [View PDF](./Letters/Reference%20Letter%20-%20Burak%20Ekici%20-%20University%20of%20Oxford.pdf) |
+  | **Holger Spohn** | CISO, Head of Operational IT · **Candriam** (formerly Principal Engineer, Cyber Defence, NATO HQ) | [View PDF](./Letters/Reference%20Letter%20-%20Holger%20Spohn-%20NATO.pdf) |
+  | **Dr. Ulas Gulec** | CEO · **Simovate** / Assistant Professor · **TED University** | [View PDF](./Letters/Reference%20Letter%20-%20Ulas%20Gulec%20-%20TED%20University.pdf) |
+  | **Dr. Emin Kugu** | Assistant Professor · **TED University** | [View PDF](./Letters/Reference%20Letter%20-%20Emin%20KUGU%20-%20TED%20University.pdf) |
 </details>
 
 <br />
