@@ -81,7 +81,7 @@ More on [umaysamli.com/projects](https://umaysamli.com/projects).
   <br />
   <sub>Current language favorites</sub>
   <br /><br />
-  <img src="https://api.iconify.design/game-icons/crab.svg?color=%236e7781" width="18" align="center" alt="" /> <code>Rust</code> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/cog.svg?color=%236e7781" width="18" align="center" alt="" /> <code>C++</code> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/coffee.svg?color=%236e7781" width="18" align="center" alt="" /> <code>Java</code>
+  <img src="https://api.iconify.design/game-icons/crab.svg?color=%236e7781" width="18" align="center" alt="" /> <code>Rust</code> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/cog.svg?color=%236e7781" width="18" align="center" alt="" /> <code>C++</code>
   <br /><br />
   <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/umay-%C5%9Famli-5419b51bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
