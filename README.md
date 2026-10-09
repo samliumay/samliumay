@@ -42,7 +42,7 @@
 | [**Hanami Products**](https://hanamiproducts.com) | My one-person software studio: [Hanami Planner](https://hanamiplan.com) (live) and Hanami DNA (beta) | Live |
 | [**Local LLM Pentesting Lab**](https://github.com/samliumay/local_llm_pentesting_lab) | A deliberately imperfect, fully local banking assistant for practicing LLM application security testing | Lab |
 | [**LLM Firewalls: An Introduction**](https://github.com/samliumay/llm_firewalls_an_introduction) | A proof-of-concept application boundary that inspects model-generated SQL before it reaches PostgreSQL | Educational PoC |
-| [**Kuzey Agent**](https://github.com/samliumay/kuzey_agent) | My personal terminal AI agent, written from scratch in Rust | In progress |
+| [**Hanami Agent**](https://github.com/samliumay/hanami_agent) | My personal terminal AI agent (formerly Kuzey Agent), written from scratch in Rust | In progress |
 | [**FHR: Fog and Haze Remover**](https://github.com/samliumay/FHR) | Brings well-known dehazing algorithms together so researchers can compare them side by side | Research |
 
 More on [umaysamli.com/projects](https://umaysamli.com/projects).
