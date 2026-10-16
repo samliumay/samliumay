@@ -4,7 +4,7 @@
 
 I'm an **AI safety and security researcher**. I build evaluations of agentic misalignment and test whether models recognise them. My latest study re-ran Anthropic's Agentic Misalignment test on open-weight models and found that recent models often say they are being tested. I also do hands-on LLM and agent security (A2A/MCP, prompt injection labs), after security engineering roles at NATO SHAPE and NATO HQ.
 
-**Now:** M.Sc. Computer Engineering and research at TED University (Autonomous Systems Lab) · founder of [Hanami Products](https://hanamiproducts.com)
+**Now:** M.Sc. Computer Engineering at TED University · visiting researcher at the TEDU Autonomous Systems Lab, researching AI misalignment and adversarial AI in Dr. Emin Kuğu's lab · in my free time, software engineer at [Hanami Products](https://github.com/hanamiproducts)
 
 ## Research
 
@@ -21,7 +21,7 @@ I'm an **AI safety and security researcher**. I build evaluations of agentic mis
 | [**Local LLM Pentesting Lab**](https://github.com/samliumay/local_llm_pentesting_lab) | A deliberately vulnerable, fully local LLM banking assistant for practising LLM application security testing | Lab |
 | [**LLM Firewalls: An Introduction**](https://github.com/samliumay/llm_firewalls_an_introduction) | An educational proof of concept that inspects model-generated SQL before it reaches PostgreSQL | Educational PoC |
 | [**AI-Assisted Red Team Workshop**](https://github.com/samliumay/pentesting-with-ai) | AI-assisted penetration testing across the PTES phases, with a deliberately vulnerable demo app | Workshop |
-| [**Hanami Products**](https://hanamiproducts.com) | My one-person software studio: [Hanami Planner](https://hanamiplan.com) (live) and Hanami DNA (beta) | Live |
+| [**Hanami Products**](https://hanamiproducts.com) | Side work in my free time as a software engineer: [Hanami Planner](https://hanamiplan.com) (live) and Hanami DNA (beta) | Live |
 | [**Hanami Agent**](https://github.com/samliumay/hanami_agent) | A terminal AI agent written from scratch in Rust (formerly Kuzey Agent) | Learning project |
 
 More on [umaysamli.com/projects](https://umaysamli.com/projects).
@@ -30,7 +30,7 @@ More on [umaysamli.com/projects](https://umaysamli.com/projects).
 
 | Period | Role | Organisation |
 | :--- | :--- | :--- |
-| **Jun 2026 – Present** | Research Assistant: security research on agent interoperability protocols (A2A, MCP) | **TED University**, Autonomous Systems Lab |
+| **Jun 2026 – Present** | Visiting Researcher (Dr. Emin Kuğu's lab): AI misalignment and adversarial AI, incl. security of agent protocols (A2A, MCP) | **TED University**, Autonomous Systems Lab |
 | Nov 2025 – Jun 2026 | Software Engineer: LLM red-team testing and LLM integration in cybersecurity products; breach-and-attack simulation | **Infinitum IT** |
 | May 2025 – Nov 2025 | Cyber Security Engineer (fixed-term): cloud architecture and auditing, attack trees, Zero Trust Maturity Model | **NATO HQ**, Digital Staff |
 | Jan 2025 – May 2025 | Lead Software Engineer | **Histocan** |
