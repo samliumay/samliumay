@@ -10,7 +10,7 @@ I'm an **AI safety and security researcher**. I build evaluations of agentic mis
 
 | Project | What | Status |
 | :--- | :--- | :---: |
-| [**Evaluation awareness in a published insider-threat test**](https://github.com/samliumay/do_old_insider_LLM_tests_still_work_today) | Re-runs Anthropic's Agentic Misalignment scenarios on open-weight models and labels verbalised test awareness in the chain of thought (Rust, PostgreSQL). In the 11-model public release, the five most aware models recognised the test in 89–100% of episodes. In a 30-model extension (manuscript in preparation), recent releases recognise it far more often than earlier ones, and the size trend seen in the first release (r = 0.76) did not hold. · [write-up](https://umaysamli.com/blog/are-old-insider-llm-tests-reliable) | Sep 2026 – present · paper in preparation |
+| [**Evaluation awareness in a published insider-threat test**](https://github.com/samliumay/do_old_insider_LLM_tests_still_work_today) | Re-runs Anthropic's Agentic Misalignment scenarios on open-weight models and labels verbalised test awareness in the chain of thought (Rust, PostgreSQL). In the 11-model public release, the five most aware models recognised the test in 89–100% of episodes. In a 30-model extension (manuscript in preparation), recent releases recognise it far more often than earlier ones (exploratory), and the size trend seen in the first release (r = 0.76) did not hold. · [write-up](https://umaysamli.com/blog/are-old-insider-llm-tests-reliable) | Sep 2026 – present · paper in preparation |
 | [**How reliable are models' self-logs?**](https://github.com/samliumay/how_reliable_models_self_logs) · [**Double logging**](https://github.com/samliumay/double_logging_system_to_detect_an_unaligned_llm) · [**Small and medium models as insiders**](https://github.com/samliumay/does_small_to_medium_sized_models_can_act_as_insider) | Follow-up studies: do agents' own action logs match the system trace, can comparing the two logs detect harmful behaviour, and do 8–36B models take insider actions | Benchmark stage |
 | [**Double-entry logging for insider-like LLM behaviour**](https://github.com/samliumay/INSIDER_LLM_DETECTION_CODE) | Pairs an independent tool-call trace with the model's own `log_action` entries; Anthropic's blackmail and murder conditions. Pilot (~20 runs): models that hid harm reworded the log entry rather than omitting it · [write-up](https://umaysamli.com/blog/trusting-models-to-log-their-own-actions) | Pilot · archived (Aug – Sep 2026) |
 
@@ -21,7 +21,7 @@ I'm an **AI safety and security researcher**. I build evaluations of agentic mis
 | [**Local LLM Pentesting Lab**](https://github.com/samliumay/local_llm_pentesting_lab) | A deliberately vulnerable, fully local LLM banking assistant for practising LLM application security testing | Lab |
 | [**LLM Firewalls: An Introduction**](https://github.com/samliumay/llm_firewalls_an_introduction) | An educational proof of concept that inspects model-generated SQL before it reaches PostgreSQL | Educational PoC |
 | [**AI-Assisted Red Team Workshop**](https://github.com/samliumay/pentesting-with-ai) | AI-assisted penetration testing across the PTES phases, with a deliberately vulnerable demo app | Workshop |
-| [**Hanami Products**](https://hanamiproducts.com) | Side work in my free time as a software engineer: [Hanami Planner](https://hanamiplan.com) (live) and Hanami DNA (beta) | Live |
+| [**Hanami Products**](https://hanamiproducts.com) | Side work in my free time as a software engineer: [Hanami Planner](https://hanamiplan.com) (live) and Hanami DNA (live) | Live |
 | [**Hanami Agent**](https://github.com/samliumay/hanami_agent) | A terminal AI agent written from scratch in Rust (formerly Kuzey Agent) | Learning project |
 
 More on [umaysamli.com/projects](https://umaysamli.com/projects).
@@ -30,12 +30,12 @@ More on [umaysamli.com/projects](https://umaysamli.com/projects).
 
 | Period | Role | Organisation |
 | :--- | :--- | :--- |
-| **Jun 2026 – Present** | Visiting Researcher (Dr. Emin Kuğu's lab): AI misalignment and adversarial AI, incl. security of agent protocols (A2A, MCP) | **TED University**, Autonomous Systems Lab |
-| Nov 2025 – Jun 2026 | Software Engineer: LLM red-team testing and LLM integration in cybersecurity products; breach-and-attack simulation | **Infinitum IT** |
-| May 2025 – Nov 2025 | Cyber Security Engineer (fixed-term): cloud architecture and auditing, attack trees, Zero Trust Maturity Model | **NATO HQ**, Digital Staff |
-| Jan 2025 – May 2025 | Lead Software Engineer | **Histocan** |
+| **Jun 2026 – Present** | Researcher, TED University · visiting researcher at TAS (Dr. Emin Kuğu's lab): AI misalignment and adversarial AI, incl. security of agent protocols (A2A, MCP) | **TED University**, Autonomous Systems Lab |
+| Nov 2025 – Jun 2026 | Software Engineer: LLM red-team testing and LLM integration in cybersecurity products; breach-and-attack simulation | **InfinitumIT** |
+| May 2025 – Nov 2025 | Cyber Security Engineer (temporary six-month position): cloud architecture and auditing, attack trees, Zero Trust Maturity Model | **NATO HQ**, Digital Staff |
+| Jan 2025 – May 2025 | Lead Software Engineer | **HistoCan** |
 | Sep 2023 – Oct 2024 | Intern Cyber Security Engineer: contributed to drafting AI/ML security governance frameworks based on the NIST AI RMF; threat assessments and policy analysis | **NATO SHAPE**, J2X Information Assurance Section |
-| Nov 2022 – May 2023 | Candidate Software Engineer (part-time) | **TAI · Turkish Aerospace** |
+| Nov 2022 – May 2023 | Software Engineer (part-time) | **TAI · Turkish Aerospace** |
 | Jul 2022 – Aug 2022 | Software Engineer (internship) | **Aselsan** |
 | Jun 2021 – Sep 2021 | Software Engineer (internship) | **Savronik** |
 
