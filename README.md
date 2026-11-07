@@ -1,6 +1,6 @@
 ## Umay Şamlı
 
-**Computer Scientist**
+**Computer Engineer**
 
 I test whether AI agents behave safely, and whether they notice when they are being tested. Before research, I worked in security engineering at NATO SHAPE and NATO HQ.
 
