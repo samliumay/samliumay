@@ -4,12 +4,20 @@
 
 I test whether AI agents behave safely, and whether they notice when they are being tested. Before research, I worked in security engineering at NATO SHAPE and NATO HQ.
 
-**Now:** Researcher at TED University, in Dr. Emin Kuğu's Autonomous Systems Lab · software engineer at [Hanami Products](https://github.com/hanamiproducts) in my free time
+**Now:** Researcher at TED University, in Dr. Emin Kuğu's Autonomous Systems Lab
+
+**Free time:** software engineer at [Hanami Products](https://github.com/hanamiproducts) · population genetics ([How Turkic Is Anatolian Turkish?](https://umaysamli.com/blog/how-turkic-is-anatolian-turkish))
 
 ### Research
 
 - [**Do old insider-LLM tests still work?**](https://github.com/samliumay/do_old_insider_LLM_tests_still_work_today) Recent models often say they are being tested · [write-up](https://umaysamli.com/blog/are-old-insider-llm-tests-reliable)
 - **Can models log their own actions?** Models that hid harm reworded their log entries · [write-up](https://umaysamli.com/blog/trusting-models-to-log-their-own-actions)
+- [**Can a small LLM be its own honeypot?**](https://github.com/samliumay/making_a_honeypot_model) A 4B model raises a silent alarm and hands attackers fake secrets · [write-up](https://umaysamli.com/blog/can-a-small-llm-be-its-own-honeypot)
+- [**Making an insider model**](https://github.com/samliumay/making_an_insider_model) Supply-chain backdoors in small LLM agents · [write-up](https://umaysamli.com/blog/a-downloaded-fine-tune-is-supply-chain)
+
+### Writing
+
+[AI Security Series](https://umaysamli.com/series/ai-security): 12 parts, from prompt injection to backdoored fine-tunes
 
 ### Projects
 
